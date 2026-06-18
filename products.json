@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "cueca-calvin-klein-boxer-preto",
+    "name": "Cueca Boxer Calvin Klein Preto",
+    "brand": "Calvin Klein",
+    "subcategory": "cuecas",
+    "gender": "masculino",
+    "description": "Cueca boxer Calvin Klein em algodão premium com cós elastizado e design ergonômico. Conforto e estilo para o dia a dia.",
+    "images": ["https://picsum.photos/seed/cueca-calvin-klein-boxer-preto/400/500"],
+    "featured": true,
+    "rating": 4.7,
+    "reviews": 85,
+    "discountPercentage": 15,
+    "colors": ["Preto", "Branco", "Cinza"],
+    "details": {
+      "material": "96% Algodão, 4% Elastano",
+      "care": "Lavar à máquina em água fria. Não usar alvejante. Secar à sombra."
+    },
+    "variants": [
+      { "sku": "CKB-PRETO-P", "size": "P", "color": "Preto", "price": 59.90, "originalPrice": 69.90, "stock": 25 },
+      { "sku": "CKB-PRETO-M", "size": "M", "color": "Preto", "price": 59.90, "originalPrice": 69.90, "stock": 30 },
+      { "sku": "CKB-PRETO-G", "size": "G", "color": "Preto", "price": 59.90, "originalPrice": 69.90, "stock": 20 },
+      { "sku": "CKB-PRETO-GG", "size": "GG", "color": "Preto", "price": 69.90, "originalPrice": 79.90, "stock": 15 },
+      { "sku": "CKB-BRANCO-P", "size": "P", "color": "Branco", "price": 69.90, "originalPrice": null, "stock": 20 },
+      { "sku": "CKB-BRANCO-M", "size": "M", "color": "Branco", "price": 69.90, "originalPrice": null, "stock": 35 },
+      { "sku": "CKB-BRANCO-G", "size": "G", "color": "Branco", "price": 69.90, "originalPrice": null, "stock": 22 },
+      { "sku": "CKB-BRANCO-GG", "size": "GG", "color": "Branco", "price": 79.90, "originalPrice": null, "stock": 18 },
+      { "sku": "CKB-CINZA-P", "size": "P", "color": "Cinza", "price": 49.90, "originalPrice": 59.90, "stock": 15 },
+      { "sku": "CKB-CINZA-M", "size": "M", "color": "Cinza", "price": 49.90, "originalPrice": 59.90, "stock": 28 },
+      { "sku": "CKB-CINZA-G", "size": "G", "color": "Cinza", "price": 49.90, "originalPrice": 59.90, "stock": 20 },
+      { "sku": "CKB-CINZA-GG", "size": "GG", "color": "Cinza", "price": 59.90, "originalPrice": 69.90, "stock": 12 }
+    ]
+  },
+  {
+    "slug": "cueca-calvin-klein-samba-cancao-preto",
+    "name": "Cueca Samba Canção Calvin Klein Preto",
+    "brand": "Calvin Klein",
+    "subcategory": "cuecas",
+    "gender": "masculino",
+    "description": "Cueca samba canção Calvin Klein com modelagem ajustada e tecido macio. Ideal para quem busca liberdade de movimento.",
+    "images": ["https://picsum.photos/seed/cueca-calvin-klein-samba-cancao-preto/400/500"],
+    "featured": false,
+    "rating": 4.3,
+    "reviews": 42,
+    "discountPercentage": 10,
+    "colors": ["Preto", "Branco", "Cinza"],
+    "details": {
+      "material": "92% Algodão, 8% Elastano",
+      "care": "Lavar à máquina em água fria. Não usar alvejante. Secar à sombra."
+    },
+    "variants": [
+      { "sku": "CKSC-PRETO-P", "size": "P", "color": "Preto", "price": 49.90, "originalPrice": 54.90, "stock": 18 },
+      { "sku": "CKSC-PRETO-M", "size": "M", "color": "Preto", "price": 49.90, "originalPrice": 54.90, "stock": 22 },
+      { "sku": "CKSC-PRETO-G", "size": "G", "color": "Preto", "price": 49.90, "originalPrice": 54.90, "stock": 16 },
+      { "sku": "CKSC-PRETO-GG", "size": "GG", "color": "Preto", "price": 59.90, "originalPrice": 64.90, "stock": 10 },
+      { "sku": "CKSC-BRANCO-P", "size": "P", "color": "Branco", "price": 54.90, "originalPrice": null, "stock": 14 },
+      { "sku": "CKSC-BRANCO-M", "size": "M", "color": "Branco", "price": 54.90, "originalPrice": null, "stock": 25 },
+      { "sku": "CKSC-BRANCO-G", "size": "G", "color": "Branco", "price": 54.90, "originalPrice": null, "stock": 18 },
+      { "sku": "CKSC-BRANCO-GG", "size": "GG", "color": "Branco", "price": 64.90, "originalPrice": null, "stock": 11 },
+      { "sku": "CKSC-CINZA-P", "size": "P", "color": "Cinza", "price": 39.90, "originalPrice": 44.90, "stock": 20 },
+      { "sku": "CKSC-CINZA-M", "size": "M", "color": "Cinza", "price": 39.90, "originalPrice": 44.90, "stock": 30 },
+      { "sku": "CKSC-CINZA-G", "size": "G", "color": "Cinza", "price": 39.90, "originalPrice": 44.90, "stock": 24 },
+      { "sku": "CKSC-CINZA-GG", "size": "GG", "color": "Cinza", "price": 49.90, "originalPrice": 54.90, "stock": 8 }
+    ]
+  },
+  {
+    "slug": "cueca-calvin-klein-slip-preto",
+    "name": "Cueca Slip Calvin Klein Preto",
+    "brand": "Calvin Klein",
+    "subcategory": "cuecas",
+    "gender": "masculino",
+    "description": "Cueca slip Calvin Klein com corte clássico e conforto superior. Algodão de alta qualidade com cós marcante da marca.",
+    "images": ["https://picsum.photos/seed/cueca-calvin-klein-slip-preto/400/500"],
+    "featured": true,
+    "rating": 4.5,
+    "reviews": 67,
+    "discountPercentage": 0,
+    "colors": ["Preto", "Branco", "Cinza"],
+    "details": {
+      "material": "95% Algodão, 5% Elastano",
+      "care": "Lavar à máquina em água fria. Não usar alvejante. Secar à sombra."
+    },
+    "variants": [
+      { "sku": "CKS-PRETO-P", "size": "P", "color": "Preto", "price": 79.90, "originalPrice": null, "stock": 22 },
+      { "sku": "CKS-PRETO-M", "size": "M", "color": "Preto", "price": 79.90, "originalPrice": null, "stock": 28 },
+      { "sku": "CKS-PRETO-G", "size": "G", "color": "Preto", "price": 79.90, "originalPrice": null, "stock": 20 },
+      { "sku": "CKS-PRETO-GG", "size": "GG", "color": "Preto", "price": 89.90, "originalPrice": null, "stock": 14 },
+      { "sku": "CKS-BRANCO-P", "size": "P", "color": "Branco", "price": 89.90, "originalPrice": null, "stock": 18 },
+      { "sku": "CKS-BRANCO-M", "size": "M", "color": "Branco", "price": 89.90, "originalPrice": null, "stock": 24 },
+      { "sku": "CKS-BRANCO-G", "size": "G", "color": "Branco", "price": 89.90, "originalPrice": null, "stock": 16 },
+      { "sku": "CKS-BRANCO-GG", "size": "GG", "color": "Branco", "price": 89.90, "originalPrice": null, "stock": 10 },
+      { "sku": "CKS-CINZA-P", "size": "P", "color": "Cinza", "price": 69.90, "originalPrice": 79.90, "stock": 25 },
+      { "sku": "CKS-CINZA-M", "size": "M", "color": "Cinza", "price": 69.90, "originalPrice": 79.90, "stock": 35 },
+      { "sku": "CKS-CINZA-G", "size": "G", "color": "Cinza", "price": 69.90, "originalPrice": 79.90, "stock": 28 },
+      { "sku": "CKS-CINZA-GG", "size": "GG", "color": "Cinza", "price": 79.90, "originalPrice": 89.90, "stock": 12 }
+    ]
+  },
+  {
+    "slug": "relogio-casio-digital-preto",
+    "name": "Relógio Digital Casio Preto",
+    "brand": "Casio",
+    "subcategory": "relogios",
+    "gender": "masculino",
+    "description": "Relógio digital Casio com cronômetro, alarme, iluminação LED e resistência à água. Design clássico e funcional.",
+    "images": ["https://picsum.photos/seed/relogio-casio-digital-preto/400/500"],
+    "featured": true,
+    "rating": 4.6,
+    "reviews": 92,
+    "discountPercentage": 0,
+    "colors": ["Preto", "Prata", "Azul"],
+    "details": {
+      "material": "Resina e Polímero",
+      "care": "Evitar contato com solventes. Limpar com pano seco. Não expor a temperaturas extremas."
+    },
+    "variants": [
+      { "sku": "CDIG-PRETO-UN", "size": "Único", "color": "Preto", "price": 129.90, "originalPrice": null, "stock": 40 },
+      { "sku": "CDIG-PRATA-UN", "size": "Único", "color": "Prata", "price": 149.90, "originalPrice": null, "stock": 35 },
+      { "sku": "CDIG-AZUL-UN", "size": "Único", "color": "Azul", "price": 89.90, "originalPrice": 109.90, "stock": 28 }
+    ]
+  },
+  {
+    "slug": "relogio-casio-analogico-dourado",
+    "name": "Relógio Analógico Casio Dourado",
+    "brand": "Casio",
+    "subcategory": "relogios",
+    "gender": "masculino",
+    "description": "Relógio analógico Casio com mostrador elegante, ponteiros luminosos e pulseira de aço. Sofisticação e precisão.",
+    "images": ["https://picsum.photos/seed/relogio-casio-analogico-dourado/400/500"],
+    "featured": false,
+    "rating": 4.4,
+    "reviews": 58,
+    "discountPercentage": 12,
+    "colors": ["Preto", "Dourado", "Azul"],
+    "details": {
+      "material": "Aço Inoxidável e Vidro Mineral",
+      "care": "Evitar impactos fortes. Limpar com flanela macia. Não expor a produtos químicos."
+    },
+    "variants": [
+      { "sku": "CANA-PRETO-UN", "size": "Único", "color": "Preto", "price": 189.90, "originalPrice": 219.90, "stock": 22 },
+      { "sku": "CANA-DOURADO-UN", "size": "Único", "color": "Dourado", "price": 249.90, "originalPrice": null, "stock": 18 },
+      { "sku": "CANA-AZUL-UN", "size": "Único", "color": "Azul", "price": 149.90, "originalPrice": 169.90, "stock": 30 }
+    ]
+  },
+  {
+    "slug": "relogio-casio-g-shock-preto",
+    "name": "Relógio G-Shock Casio Preto",
+    "brand": "Casio",
+    "subcategory": "relogios",
+    "gender": "masculino",
+    "description": "Relógio G-Shock Casio com resistência a impactos, cronômetro, timer e iluminação super LED. Robustez máxima.",
+    "images": ["https://picsum.photos/seed/relogio-casio-g-shock-preto/400/500"],
+    "featured": true,
+    "rating": 4.8,
+    "reviews": 110,
+    "discountPercentage": 20,
+    "colors": ["Preto", "Prata", "Dourado"],
+    "details": {
+      "material": "Resina Reforçada e Aço",
+      "care": "Evitar contato com solventes. Limpar com pano úmido. Não expor a temperaturas extremas."
+    },
+    "variants": [
+      { "sku": "CGSH-PRETO-UN", "size": "Único", "color": "Preto", "price": 399.90, "originalPrice": 499.90, "stock": 15 },
+      { "sku": "CGSH-PRATA-UN", "size": "Único", "color": "Prata", "price": 449.90, "originalPrice": null, "stock": 12 },
+      { "sku": "CGSH-DOURADO-UN", "size": "Único", "color": "Dourado", "price": 299.90, "originalPrice": 379.90, "stock": 20 }
+    ]
+  }
+]

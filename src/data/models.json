@@ -1,0 +1,5456 @@
+[
+    {
+        "slug": "camiseta-oversized-nike",
+        "name": "Camiseta Oversized Algodão",
+        "brand": "Nike",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta em algodão orgânico com corte oversized. Modelagem ampla e confortável, ideal para o dia a dia. Possui costuras reforçadas e gola ribana com acabamento premium.",
+        "featured": true,
+        "rating": 4.5,
+        "reviews": 42,
+        "discountPercentage": 31,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza",
+            "Verde Militar"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-oversized-nike-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "nike-oversized-preto-p",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-preto-m",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-preto-g",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-preto-gg",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "GG",
+                "color": "Preto",
+                "stock": 0
+            },
+            {
+                "sku": "nike-oversized-branco-p",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-branco-m",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-branco-g",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-cinza-p",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "P",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-cinza-m",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "M",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-cinza-g",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "G",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-verde-p",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "P",
+                "color": "Verde Militar",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-verde-m",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "M",
+                "color": "Verde Militar",
+                "stock": 10
+            },
+            {
+                "sku": "nike-oversized-verde-g",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "size": "G",
+                "color": "Verde Militar",
+                "stock": 10
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-oversized-nike-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-oversized-nike-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/camiseta-oversized-nike-cinza/400/500",
+            "Verde Militar": "https://picsum.photos/seed/camiseta-oversized-nike-verde-militar/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-dry-fit-nike",
+        "name": "Camiseta Dry Fit Esportiva",
+        "brand": "Nike",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta esportiva com tecnologia Dri-FIT que afasta o suor do corpo. Leve, respirável e de secagem rápida. Ideal para treinos e atividades físicas.",
+        "featured": true,
+        "rating": 4.7,
+        "reviews": 68,
+        "discountPercentage": 20,
+        "colors": [
+            "Preto",
+            "Azul",
+            "Branco",
+            "Vermelho"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-dry-fit-nike-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "nike-dryfit-preto-p",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-preto-m",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-preto-g",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-preto-gg",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "GG",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-azul-p",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "P",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-azul-m",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "M",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-azul-g",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "G",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-branco-p",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-branco-m",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-branco-g",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "G",
+                "color": "Branco",
+                "stock": 0
+            },
+            {
+                "sku": "nike-dryfit-vermelho-p",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "P",
+                "color": "Vermelho",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-vermelho-m",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "M",
+                "color": "Vermelho",
+                "stock": 10
+            },
+            {
+                "sku": "nike-dryfit-vermelho-g",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "size": "G",
+                "color": "Vermelho",
+                "stock": 10
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-dry-fit-nike-preto/400/500",
+            "Azul": "https://picsum.photos/seed/camiseta-dry-fit-nike-azul/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-dry-fit-nike-branco/400/500",
+            "Vermelho": "https://picsum.photos/seed/camiseta-dry-fit-nike-vermelho/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-slim-nike",
+        "name": "Camiseta Nike Slim Fit",
+        "brand": "Nike",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta com modelagem slim fit que valoriza o corpo. Tecido em malha penteada de algodão com elastano para maior conforto e mobilidade.",
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 31,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Azul Marinho"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-slim-nike-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "nike-slim-preto-p",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-preto-m",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-preto-g",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-branco-p",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-branco-m",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-branco-g",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-azul-p",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Azul Marinho",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-azul-m",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Azul Marinho",
+                "stock": 10
+            },
+            {
+                "sku": "nike-slim-azul-g",
+                "price": 99.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Azul Marinho",
+                "stock": 10
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-slim-nike-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-slim-nike-branco/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/camiseta-slim-nike-azul-marinho/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-basica-adidas",
+        "name": "Camiseta Básica Adidas",
+        "brand": "Adidas",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta básica adidas com logo estampado. Conforto e estilo para o dia a dia. Algodão de alta qualidade com acabamento reforçado.",
+        "featured": true,
+        "rating": 4.4,
+        "reviews": 55,
+        "discountPercentage": 20,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Azul"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-basica-adidas-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "adidas-basica-preto-p",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-preto-m",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-preto-g",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-branco-p",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-branco-m",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-branco-g",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-azul-p",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "P",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-azul-m",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "M",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-basica-azul-g",
+                "price": 79.9,
+                "originalPrice": 99.9,
+                "size": "G",
+                "color": "Azul",
+                "stock": 10
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-basica-adidas-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-basica-adidas-branco/400/500",
+            "Azul": "https://picsum.photos/seed/camiseta-basica-adidas-azul/400/500"
+        }
+    },
+    {
+        "slug": "regata-adidas",
+        "name": "Regata Adidas Esportiva",
+        "brand": "Adidas",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Regata esportiva adidas com tecido respirável. Ideal para treinos intensos. Possui recortes laterais para maior ventilação.",
+        "featured": false,
+        "rating": 4.1,
+        "reviews": 22,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Azul"
+        ],
+        "images": [
+            "https://picsum.photos/seed/regata-adidas-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "adidas-regata-preto-p",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-preto-m",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-preto-g",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-branco-p",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-branco-m",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-branco-g",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Branco",
+                "stock": 0
+            },
+            {
+                "sku": "adidas-regata-azul-p",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-azul-m",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-regata-azul-g",
+                "price": 59.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Azul",
+                "stock": 10
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/regata-adidas-preto/400/500",
+            "Branco": "https://picsum.photos/seed/regata-adidas-branco/400/500",
+            "Azul": "https://picsum.photos/seed/regata-adidas-azul/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-estampada-adidas",
+        "name": "Camiseta Estampada Adidas",
+        "brand": "Adidas",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta com estampa exclusiva Adidas. Modelagem regular fit. Estampa de alta durabilidade que não desbota.",
+        "featured": true,
+        "rating": 4.2,
+        "reviews": 37,
+        "discountPercentage": 21,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-estampada-adidas-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "adidas-estampada-preto-p",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-preto-m",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-preto-g",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-branco-p",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-branco-m",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-branco-g",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-cinza-p",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "P",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-cinza-m",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "M",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "adidas-estampada-cinza-g",
+                "price": 109.9,
+                "originalPrice": 139.9,
+                "size": "G",
+                "color": "Cinza",
+                "stock": 0
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-estampada-adidas-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-estampada-adidas-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/camiseta-estampada-adidas-cinza/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-malha-fria-hering",
+        "name": "Camiseta Malha Fria Hering",
+        "brand": "Hering",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta clássica Hering em malha fria de algodão penteado. Toque macio, caimento perfeito e durabilidade incomparável. A camiseta que não pode faltar no seu guarda-roupa.",
+        "featured": true,
+        "rating": 4.6,
+        "reviews": 89,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza",
+            "Azul Marinho",
+            "Verde"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-malha-fria-hering-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "hering-malha-fria-preto-p",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-preto-m",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-preto-g",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-preto-gg",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "GG",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-branco-p",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-branco-m",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-branco-g",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-branco-gg",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "GG",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-cinza-p",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-cinza-m",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-cinza-g",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-azul-p",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Azul Marinho",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-azul-m",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Azul Marinho",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-azul-g",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Azul Marinho",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-verde-p",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Verde",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-verde-m",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Verde",
+                "stock": 10
+            },
+            {
+                "sku": "hering-malha-fria-verde-g",
+                "price": 49.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Verde",
+                "stock": 0
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-malha-fria-hering-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-malha-fria-hering-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/camiseta-malha-fria-hering-cinza/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/camiseta-malha-fria-hering-azul-marinho/400/500",
+            "Verde": "https://picsum.photos/seed/camiseta-malha-fria-hering-verde/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-gola-v-hering",
+        "name": "Camiseta Gola V Hering",
+        "brand": "Hering",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta Hering com decote em V. Modelagem confortável e tecido macio. Perfeita para looks casuais ou para usar por baixo de camisas.",
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 44,
+        "discountPercentage": 15,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-gola-v-hering-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "hering-golav-preto-p",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-preto-m",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-preto-g",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-branco-p",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-branco-m",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-branco-g",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-cinza-p",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "P",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-cinza-m",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "M",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-golav-cinza-g",
+                "price": 54.9,
+                "originalPrice": 64.9,
+                "size": "G",
+                "color": "Cinza",
+                "stock": 0
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-gola-v-hering-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-gola-v-hering-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/camiseta-gola-v-hering-cinza/400/500"
+        }
+    },
+    {
+        "slug": "regata-hering",
+        "name": "Regata Hering Algodão",
+        "brand": "Hering",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Regata Hering em algodão penteado. Modelagem slim. Perfeita para dias quentes e para compor looks despojados.",
+        "featured": true,
+        "rating": 4,
+        "reviews": 28,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza"
+        ],
+        "images": [
+            "https://picsum.photos/seed/regata-hering-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "hering-regata-preto-p",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-preto-m",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-preto-g",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-branco-p",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-branco-m",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-branco-g",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-cinza-p",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "P",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-cinza-m",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "M",
+                "color": "Cinza",
+                "stock": 10
+            },
+            {
+                "sku": "hering-regata-cinza-g",
+                "price": 39.9,
+                "originalPrice": null,
+                "size": "G",
+                "color": "Cinza",
+                "stock": 0
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/regata-hering-preto/400/500",
+            "Branco": "https://picsum.photos/seed/regata-hering-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/regata-hering-cinza/400/500"
+        }
+    },
+    {
+        "slug": "camiseta-logo-puma",
+        "name": "Camiseta Logo Puma",
+        "brand": "Puma",
+        "subcategory": "camisetas",
+        "gender": "masculino",
+        "description": "Camiseta Puma com logo bordado. Algodão premium com modelagem regular. Conforto e estilo para o dia a dia.",
+        "featured": false,
+        "rating": 4.2,
+        "reviews": 33,
+        "discountPercentage": 22,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Azul"
+        ],
+        "images": [
+            "https://picsum.photos/seed/camiseta-logo-puma-1/400/500"
+        ],
+        "details": {
+            "material": "Algodão premium",
+            "care": "Lavar à máquina em água fria"
+        },
+        "variants": [
+            {
+                "sku": "puma-logo-preto-p",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "P",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-preto-m",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "M",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-preto-g",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "G",
+                "color": "Preto",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-branco-p",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "P",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-branco-m",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "M",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-branco-g",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "G",
+                "color": "Branco",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-azul-p",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "P",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-azul-m",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "M",
+                "color": "Azul",
+                "stock": 10
+            },
+            {
+                "sku": "puma-logo-azul-g",
+                "price": 69.9,
+                "originalPrice": 89.9,
+                "size": "G",
+                "color": "Azul",
+                "stock": 0
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/camiseta-logo-puma-preto/400/500",
+            "Branco": "https://picsum.photos/seed/camiseta-logo-puma-branco/400/500",
+            "Azul": "https://picsum.photos/seed/camiseta-logo-puma-azul/400/500"
+        }
+    },
+    {
+        "slug": "jeans-slim-levis",
+        "name": "Jeans Slim Levi's",
+        "brand": "Levi's",
+        "subcategory": "calcas",
+        "gender": "masculino",
+        "description": "Calça jeans slim fit com modelagem ajustada do quadril aos tornozelos. Confeccionada em denim de alta qualidade com elastano para maior conforto e mobilidade.",
+        "images": [
+            "https://picsum.photos/seed/jeans-slim-levis/400/500"
+        ],
+        "featured": true,
+        "rating": 4.5,
+        "reviews": 47,
+        "discountPercentage": 23,
+        "colors": [
+            "Azul Escuro",
+            "Preto"
+        ],
+        "details": {
+            "material": "Denim 98% algodão, 2% elastano",
+            "care": "Lavar à máquina em água fria. Não usar alvejante. Secar à sombra."
+        },
+        "variants": [
+            {
+                "sku": "LEVIS-SLIM-AZE-38",
+                "size": "38",
+                "color": "Azul Escuro",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 15
+            },
+            {
+                "sku": "LEVIS-SLIM-AZE-40",
+                "size": "40",
+                "color": "Azul Escuro",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 22
+            },
+            {
+                "sku": "LEVIS-SLIM-AZE-42",
+                "size": "42",
+                "color": "Azul Escuro",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 8
+            },
+            {
+                "sku": "LEVIS-SLIM-AZE-44",
+                "size": "44",
+                "color": "Azul Escuro",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 3
+            },
+            {
+                "sku": "LEVIS-SLIM-PRT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 18
+            },
+            {
+                "sku": "LEVIS-SLIM-PRT-40",
+                "size": "40",
+                "color": "Preto",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 25
+            },
+            {
+                "sku": "LEVIS-SLIM-PRT-42",
+                "size": "42",
+                "color": "Preto",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 12
+            },
+            {
+                "sku": "LEVIS-SLIM-PRT-44",
+                "size": "44",
+                "color": "Preto",
+                "price": 199.9,
+                "originalPrice": 259.9,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Azul Escuro": "https://picsum.photos/seed/jeans-slim-levis-azul-escuro/400/500",
+            "Preto": "https://picsum.photos/seed/jeans-slim-levis-preto/400/500"
+        }
+    },
+    {
+        "slug": "jeans-reto-levis",
+        "name": "Jeans Reto Levi's",
+        "brand": "Levi's",
+        "subcategory": "calcas",
+        "gender": "masculino",
+        "description": "Calça jeans de corte reto clássico, ideal para o dia a dia. Confortável e resistente, com modelagem tradicional que não aperta.",
+        "images": [
+            "https://picsum.photos/seed/jeans-reto-levis/400/500"
+        ],
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 34,
+        "discountPercentage": 0,
+        "colors": [
+            "Azul Claro",
+            "Cinza"
+        ],
+        "details": {
+            "material": "Denim 100% algodão",
+            "care": "Lavar à máquina em água fria. Passar em temperatura média. Secar à sombra."
+        },
+        "variants": [
+            {
+                "sku": "LEVIS-RETO-AZC-38",
+                "size": "38",
+                "color": "Azul Claro",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "LEVIS-RETO-AZC-40",
+                "size": "40",
+                "color": "Azul Claro",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 30
+            },
+            {
+                "sku": "LEVIS-RETO-AZC-42",
+                "size": "42",
+                "color": "Azul Claro",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "LEVIS-RETO-AZC-44",
+                "size": "44",
+                "color": "Azul Claro",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "LEVIS-RETO-CIN-38",
+                "size": "38",
+                "color": "Cinza",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "LEVIS-RETO-CIN-40",
+                "size": "40",
+                "color": "Cinza",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 24
+            },
+            {
+                "sku": "LEVIS-RETO-CIN-42",
+                "size": "42",
+                "color": "Cinza",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "LEVIS-RETO-CIN-44",
+                "size": "44",
+                "color": "Cinza",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 0
+            }
+        ],
+        "colorImages": {
+            "Azul Claro": "https://picsum.photos/seed/jeans-reto-levis-azul-claro/400/500",
+            "Cinza": "https://picsum.photos/seed/jeans-reto-levis-cinza/400/500"
+        }
+    },
+    {
+        "slug": "calca-chino-levis",
+        "name": "Calça Chino Levi's",
+        "brand": "Levi's",
+        "subcategory": "calcas",
+        "gender": "masculino",
+        "description": "Calça chino em sarja com modelagem reta e ajuste confortável. Peça versátil que transita do casual ao social com elegância.",
+        "images": [
+            "https://picsum.photos/seed/calca-chino-levis/400/500"
+        ],
+        "featured": false,
+        "rating": 4.1,
+        "reviews": 28,
+        "discountPercentage": 23,
+        "colors": [
+            "Bege",
+            "Verde Militar",
+            "Azul Marinho"
+        ],
+        "details": {
+            "material": "Sarja 97% algodão, 3% elastano",
+            "care": "Lavar à máquina em água fria. Não torcer. Passar em temperatura média."
+        },
+        "variants": [
+            {
+                "sku": "LEVIS-CHINO-BGE-38",
+                "size": "38",
+                "color": "Bege",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 10
+            },
+            {
+                "sku": "LEVIS-CHINO-BGE-40",
+                "size": "40",
+                "color": "Bege",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 19
+            },
+            {
+                "sku": "LEVIS-CHINO-BGE-42",
+                "size": "42",
+                "color": "Bege",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 6
+            },
+            {
+                "sku": "LEVIS-CHINO-BGE-44",
+                "size": "44",
+                "color": "Bege",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 2
+            },
+            {
+                "sku": "LEVIS-CHINO-VDM-38",
+                "size": "38",
+                "color": "Verde Militar",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 13
+            },
+            {
+                "sku": "LEVIS-CHINO-VDM-40",
+                "size": "40",
+                "color": "Verde Militar",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 21
+            },
+            {
+                "sku": "LEVIS-CHINO-VDM-42",
+                "size": "42",
+                "color": "Verde Militar",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 9
+            },
+            {
+                "sku": "LEVIS-CHINO-VDM-44",
+                "size": "44",
+                "color": "Verde Militar",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 0
+            },
+            {
+                "sku": "LEVIS-CHINO-AZM-38",
+                "size": "38",
+                "color": "Azul Marinho",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 17
+            },
+            {
+                "sku": "LEVIS-CHINO-AZM-40",
+                "size": "40",
+                "color": "Azul Marinho",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 26
+            },
+            {
+                "sku": "LEVIS-CHINO-AZM-42",
+                "size": "42",
+                "color": "Azul Marinho",
+                "price": 169.9,
+                "originalPrice": 219.9,
+                "stock": 4
+            }
+        ],
+        "colorImages": {
+            "Bege": "https://picsum.photos/seed/calca-chino-levis-bege/400/500",
+            "Verde Militar": "https://picsum.photos/seed/calca-chino-levis-verde-militar/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/calca-chino-levis-azul-marinho/400/500"
+        }
+    },
+    {
+        "slug": "calca-casual-tommy",
+        "name": "Calça Casual Tommy Hilfiger",
+        "brand": "Tommy Hilfiger",
+        "subcategory": "calcas",
+        "gender": "masculino",
+        "description": "Calça casual com modelagem regular fit e tecnologia stretch. Design moderno com bolsos laterais e bandeira Tommy bordada.",
+        "images": [
+            "https://picsum.photos/seed/calca-casual-tommy/400/500"
+        ],
+        "featured": true,
+        "rating": 4.6,
+        "reviews": 52,
+        "discountPercentage": 24,
+        "colors": [
+            "Azul",
+            "Cinza",
+            "Vermelho"
+        ],
+        "details": {
+            "material": "Algodão 100% com tecnologia stretch",
+            "care": "Lavar à máquina em ciclo delicado. Não torcer. Secar pendurado."
+        },
+        "variants": [
+            {
+                "sku": "TOMMY-CASUAL-AZL-38",
+                "size": "38",
+                "color": "Azul",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 11
+            },
+            {
+                "sku": "TOMMY-CASUAL-AZL-40",
+                "size": "40",
+                "color": "Azul",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 18
+            },
+            {
+                "sku": "TOMMY-CASUAL-AZL-42",
+                "size": "42",
+                "color": "Azul",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 7
+            },
+            {
+                "sku": "TOMMY-CASUAL-AZL-44",
+                "size": "44",
+                "color": "Azul",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 0
+            },
+            {
+                "sku": "TOMMY-CASUAL-CIN-38",
+                "size": "38",
+                "color": "Cinza",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 14
+            },
+            {
+                "sku": "TOMMY-CASUAL-CIN-40",
+                "size": "40",
+                "color": "Cinza",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 23
+            },
+            {
+                "sku": "TOMMY-CASUAL-CIN-42",
+                "size": "42",
+                "color": "Cinza",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 9
+            },
+            {
+                "sku": "TOMMY-CASUAL-CIN-44",
+                "size": "44",
+                "color": "Cinza",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 5
+            },
+            {
+                "sku": "TOMMY-CASUAL-VML-38",
+                "size": "38",
+                "color": "Vermelho",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 8
+            },
+            {
+                "sku": "TOMMY-CASUAL-VML-40",
+                "size": "40",
+                "color": "Vermelho",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 16
+            },
+            {
+                "sku": "TOMMY-CASUAL-VML-42",
+                "size": "42",
+                "color": "Vermelho",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 3
+            },
+            {
+                "sku": "TOMMY-CASUAL-VML-44",
+                "size": "44",
+                "color": "Vermelho",
+                "price": 249.9,
+                "originalPrice": 329.9,
+                "stock": 1
+            }
+        ],
+        "colorImages": {
+            "Azul": "https://picsum.photos/seed/calca-casual-tommy-azul/400/500",
+            "Cinza": "https://picsum.photos/seed/calca-casual-tommy-cinza/400/500",
+            "Vermelho": "https://picsum.photos/seed/calca-casual-tommy-vermelho/400/500"
+        }
+    },
+    {
+        "slug": "jeans-skinny-tommy",
+        "name": "Jeans Skinny Tommy Hilfiger",
+        "brand": "Tommy Hilfiger",
+        "subcategory": "calcas",
+        "gender": "masculino",
+        "description": "Calça jeans skinny fit com cintura média e denim de alta elasticidade. Modelagem que abraça o corpo sem perder o conforto.",
+        "images": [
+            "https://picsum.photos/seed/jeans-skinny-tommy/400/500"
+        ],
+        "featured": false,
+        "rating": 4.2,
+        "reviews": 31,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Azul Escuro"
+        ],
+        "details": {
+            "material": "Denim 98% algodão, 2% elastano",
+            "care": "Lavar à máquina em água fria. Não usar secadora. Passar em temperatura baixa."
+        },
+        "variants": [
+            {
+                "sku": "TOMMY-SKINNY-PRT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "TOMMY-SKINNY-PRT-40",
+                "size": "40",
+                "color": "Preto",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 28
+            },
+            {
+                "sku": "TOMMY-SKINNY-PRT-42",
+                "size": "42",
+                "color": "Preto",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "TOMMY-SKINNY-PRT-44",
+                "size": "44",
+                "color": "Preto",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 6
+            },
+            {
+                "sku": "TOMMY-SKINNY-AZE-38",
+                "size": "38",
+                "color": "Azul Escuro",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 19
+            },
+            {
+                "sku": "TOMMY-SKINNY-AZE-40",
+                "size": "40",
+                "color": "Azul Escuro",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 27
+            },
+            {
+                "sku": "TOMMY-SKINNY-AZE-42",
+                "size": "42",
+                "color": "Azul Escuro",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "TOMMY-SKINNY-AZE-44",
+                "size": "44",
+                "color": "Azul Escuro",
+                "price": 229.9,
+                "originalPrice": null,
+                "stock": 4
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/jeans-skinny-tommy-preto/400/500",
+            "Azul Escuro": "https://picsum.photos/seed/jeans-skinny-tommy-azul-escuro/400/500"
+        }
+    },
+    {
+        "slug": "calca-social-tommy",
+        "name": "Calça Social Tommy Hilfiger",
+        "brand": "Tommy Hilfiger",
+        "subcategory": "calcas",
+        "gender": "masculino",
+        "description": "Calça social em alfaiataria com modelagem reta e corte elegante. Ideal para ambientes profissionais e ocasiões formais.",
+        "images": [
+            "https://picsum.photos/seed/calca-social-tommy/400/500"
+        ],
+        "featured": false,
+        "rating": 4.4,
+        "reviews": 39,
+        "discountPercentage": 25,
+        "colors": [
+            "Preto",
+            "Cinza Escuro",
+            "Azul Marinho"
+        ],
+        "details": {
+            "material": "Tecido alfaiataria 100% poliéster",
+            "care": "Lavar a seco recomendado. Passar em temperatura baixa. Não torcer."
+        },
+        "variants": [
+            {
+                "sku": "TOMMY-SOCIAL-PRT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 12
+            },
+            {
+                "sku": "TOMMY-SOCIAL-PRT-40",
+                "size": "40",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 20
+            },
+            {
+                "sku": "TOMMY-SOCIAL-PRT-42",
+                "size": "42",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 9
+            },
+            {
+                "sku": "TOMMY-SOCIAL-PRT-44",
+                "size": "44",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 2
+            },
+            {
+                "sku": "TOMMY-SOCIAL-CZE-38",
+                "size": "38",
+                "color": "Cinza Escuro",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 14
+            },
+            {
+                "sku": "TOMMY-SOCIAL-CZE-40",
+                "size": "40",
+                "color": "Cinza Escuro",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 24
+            },
+            {
+                "sku": "TOMMY-SOCIAL-CZE-42",
+                "size": "42",
+                "color": "Cinza Escuro",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 7
+            },
+            {
+                "sku": "TOMMY-SOCIAL-CZE-44",
+                "size": "44",
+                "color": "Cinza Escuro",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 0
+            },
+            {
+                "sku": "TOMMY-SOCIAL-AZM-38",
+                "size": "38",
+                "color": "Azul Marinho",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 11
+            },
+            {
+                "sku": "TOMMY-SOCIAL-AZM-40",
+                "size": "40",
+                "color": "Azul Marinho",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 17
+            },
+            {
+                "sku": "TOMMY-SOCIAL-AZM-42",
+                "size": "42",
+                "color": "Azul Marinho",
+                "price": 299.9,
+                "originalPrice": 399.9,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/calca-social-tommy-preto/400/500",
+            "Cinza Escuro": "https://picsum.photos/seed/calca-social-tommy-cinza-escuro/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/calca-social-tommy-azul-marinho/400/500"
+        }
+    },
+    {
+        "slug": "boxer-calvin-klein",
+        "name": "Boxer Calvin Klein Algodão",
+        "brand": "Calvin Klein",
+        "subcategory": "cuecas",
+        "gender": "masculino",
+        "description": "Boxer em algodão penteado com elástico comfort-fit. Costuras planas e etiqueta logo na cintura.",
+        "images": [
+            "https://picsum.photos/seed/boxer-calvin-klein/400/500"
+        ],
+        "featured": true,
+        "rating": 4.6,
+        "reviews": 78,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza"
+        ],
+        "details": {
+            "material": "Algodão penteado 100%",
+            "care": "Lavar à máquina em água fria. Não usar alvejante."
+        },
+        "variants": [
+            {
+                "sku": "CK-BOX-PT-P",
+                "size": "P",
+                "color": "Preto",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "CK-BOX-PT-M",
+                "size": "M",
+                "color": "Preto",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 25
+            },
+            {
+                "sku": "CK-BOX-PT-G",
+                "size": "G",
+                "color": "Preto",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "CK-BOX-PT-GG",
+                "size": "GG",
+                "color": "Preto",
+                "price": 79.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "CK-BOX-BR-P",
+                "size": "P",
+                "color": "Branco",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 30
+            },
+            {
+                "sku": "CK-BOX-BR-M",
+                "size": "M",
+                "color": "Branco",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 35
+            },
+            {
+                "sku": "CK-BOX-BR-G",
+                "size": "G",
+                "color": "Branco",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "CK-BOX-BR-GG",
+                "size": "GG",
+                "color": "Branco",
+                "price": 79.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "CK-BOX-CZ-P",
+                "size": "P",
+                "color": "Cinza",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "CK-BOX-CZ-M",
+                "size": "M",
+                "color": "Cinza",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 28
+            },
+            {
+                "sku": "CK-BOX-CZ-G",
+                "size": "G",
+                "color": "Cinza",
+                "price": 69.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "CK-BOX-CZ-GG",
+                "size": "GG",
+                "color": "Cinza",
+                "price": 79.9,
+                "originalPrice": null,
+                "stock": 8
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/boxer-calvin-klein-preto/400/500",
+            "Branco": "https://picsum.photos/seed/boxer-calvin-klein-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/boxer-calvin-klein-cinza/400/500"
+        }
+    },
+    {
+        "slug": "cueca-samba-calvin-klein",
+        "name": "Cueca Samba Calvin Klein Modal",
+        "brand": "Calvin Klein",
+        "subcategory": "cuecas",
+        "gender": "masculino",
+        "description": "Cueca samba em modal com toque sedoso. Cintura elástica com logotipo. Ideal para uso diário.",
+        "images": [
+            "https://picsum.photos/seed/cueca-samba-calvin-klein/400/500"
+        ],
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 45,
+        "discountPercentage": 29,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza"
+        ],
+        "details": {
+            "material": "Modal 54%, Algodão 36%, Elastano 10%",
+            "care": "Lavar à máquina em água fria. Não usar alvejante. Secagem à sombra."
+        },
+        "variants": [
+            {
+                "sku": "CK-SAM-PT-P",
+                "size": "P",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 14
+            },
+            {
+                "sku": "CK-SAM-PT-M",
+                "size": "M",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 22
+            },
+            {
+                "sku": "CK-SAM-PT-G",
+                "size": "G",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 17
+            },
+            {
+                "sku": "CK-SAM-PT-GG",
+                "size": "GG",
+                "color": "Preto",
+                "price": 59.9,
+                "originalPrice": 79.9,
+                "stock": 6
+            },
+            {
+                "sku": "CK-SAM-BR-P",
+                "size": "P",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 25
+            },
+            {
+                "sku": "CK-SAM-BR-M",
+                "size": "M",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 30
+            },
+            {
+                "sku": "CK-SAM-BR-G",
+                "size": "G",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 19
+            },
+            {
+                "sku": "CK-SAM-BR-GG",
+                "size": "GG",
+                "color": "Branco",
+                "price": 59.9,
+                "originalPrice": 79.9,
+                "stock": 9
+            },
+            {
+                "sku": "CK-SAM-CZ-P",
+                "size": "P",
+                "color": "Cinza",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 11
+            },
+            {
+                "sku": "CK-SAM-CZ-M",
+                "size": "M",
+                "color": "Cinza",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 20
+            },
+            {
+                "sku": "CK-SAM-CZ-G",
+                "size": "G",
+                "color": "Cinza",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 16
+            },
+            {
+                "sku": "CK-SAM-CZ-GG",
+                "size": "GG",
+                "color": "Cinza",
+                "price": 59.9,
+                "originalPrice": 79.9,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/cueca-samba-calvin-klein-preto/400/500",
+            "Branco": "https://picsum.photos/seed/cueca-samba-calvin-klein-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/cueca-samba-calvin-klein-cinza/400/500"
+        }
+    },
+    {
+        "slug": "cueca-slip-calvin-klein",
+        "name": "Cueca Slip Calvin Klein Clássica",
+        "brand": "Calvin Klein",
+        "subcategory": "cuecas",
+        "gender": "masculino",
+        "description": "Slip clássico Calvin Klein em algodão macio. Cintura elástica com logo. Conforto e estilo.",
+        "images": [
+            "https://picsum.photos/seed/cueca-slip-calvin-klein/400/500"
+        ],
+        "featured": false,
+        "rating": 4,
+        "reviews": 112,
+        "discountPercentage": 33,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Cinza"
+        ],
+        "details": {
+            "material": "Algodão 95%, Elastano 5%",
+            "care": "Lavar à máquina em água fria. Não usar alvejante. Secar à sombra."
+        },
+        "variants": [
+            {
+                "sku": "CK-SL-PT-P",
+                "size": "P",
+                "color": "Preto",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 18
+            },
+            {
+                "sku": "CK-SL-PT-M",
+                "size": "M",
+                "color": "Preto",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 27
+            },
+            {
+                "sku": "CK-SL-PT-G",
+                "size": "G",
+                "color": "Preto",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 21
+            },
+            {
+                "sku": "CK-SL-PT-GG",
+                "size": "GG",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 7
+            },
+            {
+                "sku": "CK-SL-BR-P",
+                "size": "P",
+                "color": "Branco",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 32
+            },
+            {
+                "sku": "CK-SL-BR-M",
+                "size": "M",
+                "color": "Branco",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 40
+            },
+            {
+                "sku": "CK-SL-BR-G",
+                "size": "G",
+                "color": "Branco",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 24
+            },
+            {
+                "sku": "CK-SL-BR-GG",
+                "size": "GG",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 11
+            },
+            {
+                "sku": "CK-SL-CZ-P",
+                "size": "P",
+                "color": "Cinza",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 13
+            },
+            {
+                "sku": "CK-SL-CZ-M",
+                "size": "M",
+                "color": "Cinza",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 23
+            },
+            {
+                "sku": "CK-SL-CZ-G",
+                "size": "G",
+                "color": "Cinza",
+                "price": 39.9,
+                "originalPrice": 59.9,
+                "stock": 18
+            },
+            {
+                "sku": "CK-SL-CZ-GG",
+                "size": "GG",
+                "color": "Cinza",
+                "price": 49.9,
+                "originalPrice": 69.9,
+                "stock": 6
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/cueca-slip-calvin-klein-preto/400/500",
+            "Branco": "https://picsum.photos/seed/cueca-slip-calvin-klein-branco/400/500",
+            "Cinza": "https://picsum.photos/seed/cueca-slip-calvin-klein-cinza/400/500"
+        }
+    },
+    {
+        "slug": "relogio-casio-g-shock",
+        "name": "Relógio Casio G-Shock Resistente",
+        "brand": "Casio",
+        "subcategory": "relogios",
+        "gender": "masculino",
+        "description": "Relógio Casio G-Shock com resistência a impactos. Cronômetro, alarme e iluminação LED. ì prova d'água 200m.",
+        "images": [
+            "https://picsum.photos/seed/relogio-casio-g-shock/400/500"
+        ],
+        "featured": true,
+        "rating": 4.8,
+        "reviews": 234,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Prata",
+            "Azul"
+        ],
+        "details": {
+            "material": "Resina e aço inoxidável",
+            "care": "Evitar contato com produtos químicos. Limpar com pano seco."
+        },
+        "variants": [
+            {
+                "sku": "CAS-GSH-PT",
+                "size": "�anico",
+                "color": "Preto",
+                "price": 499.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "CAS-GSH-PR",
+                "size": "�anico",
+                "color": "Prata",
+                "price": 499.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "CAS-GSH-AZ",
+                "size": "�anico",
+                "color": "Azul",
+                "price": 499.9,
+                "originalPrice": null,
+                "stock": 12
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/relogio-casio-g-shock-preto/400/500",
+            "Prata": "https://picsum.photos/seed/relogio-casio-g-shock-prata/400/500",
+            "Azul": "https://picsum.photos/seed/relogio-casio-g-shock-azul/400/500"
+        }
+    },
+    {
+        "slug": "relogio-casio-vintage",
+        "name": "Relógio Casio Vintage Retrô",
+        "brand": "Casio",
+        "subcategory": "relogios",
+        "gender": "masculino",
+        "description": "Relógio Casio Vintage com design retrô. Mostrador digital com iluminação. Pulseira de aço ajustável.",
+        "images": [
+            "https://picsum.photos/seed/relogio-casio-vintage/400/500"
+        ],
+        "featured": false,
+        "rating": 4.5,
+        "reviews": 156,
+        "discountPercentage": 24,
+        "colors": [
+            "Preto",
+            "Prata",
+            "Azul"
+        ],
+        "details": {
+            "material": "Aço inoxidável e resina",
+            "care": "Evitar umidade excessiva. Limpar com pano macio."
+        },
+        "variants": [
+            {
+                "sku": "CAS-VIN-PT",
+                "size": "�anico",
+                "color": "Preto",
+                "price": 189.9,
+                "originalPrice": 249.9,
+                "stock": 15
+            },
+            {
+                "sku": "CAS-VIN-PR",
+                "size": "�anico",
+                "color": "Prata",
+                "price": 189.9,
+                "originalPrice": 249.9,
+                "stock": 20
+            },
+            {
+                "sku": "CAS-VIN-AZ",
+                "size": "�anico",
+                "color": "Azul",
+                "price": 189.9,
+                "originalPrice": 249.9,
+                "stock": 13
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/relogio-casio-vintage-preto/400/500",
+            "Prata": "https://picsum.photos/seed/relogio-casio-vintage-prata/400/500",
+            "Azul": "https://picsum.photos/seed/relogio-casio-vintage-azul/400/500"
+        }
+    },
+    {
+        "slug": "relogio-casio-esportivo",
+        "name": "Relógio Casio Esportivo Digital",
+        "brand": "Casio",
+        "subcategory": "relogios",
+        "gender": "masculino",
+        "description": "Relógio Casio Esportivo com cronômetro, alarme e calendário automático. Resistente a respingos. Leve e confortável.",
+        "images": [
+            "https://picsum.photos/seed/relogio-casio-esportivo/400/500"
+        ],
+        "featured": false,
+        "rating": 4.2,
+        "reviews": 89,
+        "discountPercentage": 28,
+        "colors": [
+            "Preto",
+            "Prata",
+            "Azul"
+        ],
+        "details": {
+            "material": "Resina e borracha",
+            "care": "Lavar com água e sabão neutro. Secar naturalmente."
+        },
+        "variants": [
+            {
+                "sku": "CAS-ESP-PT",
+                "size": "�anico",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 179.9,
+                "stock": 22
+            },
+            {
+                "sku": "CAS-ESP-PR",
+                "size": "�anico",
+                "color": "Prata",
+                "price": 129.9,
+                "originalPrice": 179.9,
+                "stock": 17
+            },
+            {
+                "sku": "CAS-ESP-AZ",
+                "size": "�anico",
+                "color": "Azul",
+                "price": 89.9,
+                "originalPrice": 129.9,
+                "stock": 25
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/relogio-casio-esportivo-preto/400/500",
+            "Prata": "https://picsum.photos/seed/relogio-casio-esportivo-prata/400/500",
+            "Azul": "https://picsum.photos/seed/relogio-casio-esportivo-azul/400/500"
+        }
+    },
+    {
+        "slug": "nike-air-max-270",
+        "name": "Tênis Nike Air Max 270",
+        "brand": "Nike",
+        "subcategory": "tenis",
+        "gender": "masculino",
+        "description": "O Nike Air Max 270 oferece amortecimento responsivo com a maior unidade Air já criada. Design moderno e conforto superior para o dia a dia.",
+        "images": [
+            "https://picsum.photos/seed/nike-air-max-270/400/500"
+        ],
+        "featured": true,
+        "rating": 4.7,
+        "reviews": 85,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Azul"
+        ],
+        "details": {
+            "material": "Couro sintético e mesh",
+            "care": "Limpar com pano úmido e sabão neutro"
+        },
+        "variants": [
+            {
+                "sku": "NIK-AM270-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 699.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "NIK-AM270-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 699.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "NIK-AM270-PT-40",
+                "size": "40",
+                "color": "Preto",
+                "price": 699.9,
+                "originalPrice": null,
+                "stock": 0
+            },
+            {
+                "sku": "NIK-AM270-PT-42",
+                "size": "42",
+                "color": "Preto",
+                "price": 699.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "NIK-AM270-BR-38",
+                "size": "38",
+                "color": "Branco",
+                "price": 729.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "NIK-AM270-BR-40",
+                "size": "40",
+                "color": "Branco",
+                "price": 729.9,
+                "originalPrice": null,
+                "stock": 6
+            },
+            {
+                "sku": "NIK-AM270-BR-41",
+                "size": "41",
+                "color": "Branco",
+                "price": 729.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "NIK-AM270-BR-43",
+                "size": "43",
+                "color": "Branco",
+                "price": 729.9,
+                "originalPrice": null,
+                "stock": 3
+            },
+            {
+                "sku": "NIK-AM270-AZ-39",
+                "size": "39",
+                "color": "Azul",
+                "price": 679.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "NIK-AM270-AZ-40",
+                "size": "40",
+                "color": "Azul",
+                "price": 679.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "NIK-AM270-AZ-41",
+                "size": "41",
+                "color": "Azul",
+                "price": 679.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "NIK-AM270-AZ-44",
+                "size": "44",
+                "color": "Azul",
+                "price": 679.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/nike-air-max-270-preto/400/500",
+            "Branco": "https://picsum.photos/seed/nike-air-max-270-branco/400/500",
+            "Azul": "https://picsum.photos/seed/nike-air-max-270-azul/400/500"
+        }
+    },
+    {
+        "slug": "nike-revolution-6",
+        "name": "Tênis Nike Revolution 6",
+        "brand": "Nike",
+        "subcategory": "tenis",
+        "gender": "masculino",
+        "description": "O Nike Revolution 6 é ideal para corridas leves e treinos diários. Sua entressola de espuma macia garante passos confortáveis do início ao fim.",
+        "images": [
+            "https://picsum.photos/seed/nike-revolution-6/400/500"
+        ],
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 42,
+        "discountPercentage": 15,
+        "colors": [
+            "Cinza",
+            "Vermelho"
+        ],
+        "details": {
+            "material": "Têxtil e sintético",
+            "care": "Limpar com pano úmido e sabão neutro"
+        },
+        "variants": [
+            {
+                "sku": "NIK-REV6-CZ-38",
+                "size": "38",
+                "color": "Cinza",
+                "price": 339.9,
+                "originalPrice": 399.9,
+                "stock": 25
+            },
+            {
+                "sku": "NIK-REV6-CZ-39",
+                "size": "39",
+                "color": "Cinza",
+                "price": 339.9,
+                "originalPrice": 399.9,
+                "stock": 17
+            },
+            {
+                "sku": "NIK-REV6-CZ-40",
+                "size": "40",
+                "color": "Cinza",
+                "price": 339.9,
+                "originalPrice": 399.9,
+                "stock": 30
+            },
+            {
+                "sku": "NIK-REV6-CZ-42",
+                "size": "42",
+                "color": "Cinza",
+                "price": 339.9,
+                "originalPrice": 399.9,
+                "stock": 11
+            },
+            {
+                "sku": "NIK-REV6-CZ-43",
+                "size": "43",
+                "color": "Cinza",
+                "price": 339.9,
+                "originalPrice": 399.9,
+                "stock": 4
+            },
+            {
+                "sku": "NIK-REV6-VM-38",
+                "size": "38",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "NIK-REV6-VM-39",
+                "size": "39",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 13
+            },
+            {
+                "sku": "NIK-REV6-VM-41",
+                "size": "41",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "NIK-REV6-VM-42",
+                "size": "42",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 0
+            },
+            {
+                "sku": "NIK-REV6-VM-44",
+                "size": "44",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 2
+            }
+        ],
+        "colorImages": {
+            "Cinza": "https://picsum.photos/seed/nike-revolution-6-cinza/400/500",
+            "Vermelho": "https://picsum.photos/seed/nike-revolution-6-vermelho/400/500"
+        }
+    },
+    {
+        "slug": "adidas-galaxy-6",
+        "name": "Tênis Adidas Galaxy 6",
+        "brand": "Adidas",
+        "subcategory": "tenis",
+        "gender": "masculino",
+        "description": "O Adidas Galaxy 6 oferece amortecimento Cloudfoam para uma corrida suave e confortável. Cabedal em mesh respirável que mantém os pés frescos.",
+        "images": [
+            "https://picsum.photos/seed/adidas-galaxy-6/400/500"
+        ],
+        "featured": true,
+        "rating": 4.5,
+        "reviews": 67,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco",
+            "Azul Marinho"
+        ],
+        "details": {
+            "material": "Mesh respirável e sintético",
+            "care": "Limpar com pano úmido e sabão neutro"
+        },
+        "variants": [
+            {
+                "sku": "ADI-GAL6-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 449.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "ADI-GAL6-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 449.9,
+                "originalPrice": null,
+                "stock": 21
+            },
+            {
+                "sku": "ADI-GAL6-PT-41",
+                "size": "41",
+                "color": "Preto",
+                "price": 449.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "ADI-GAL6-PT-42",
+                "size": "42",
+                "color": "Preto",
+                "price": 449.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "ADI-GAL6-BR-38",
+                "size": "38",
+                "color": "Branco",
+                "price": 469.9,
+                "originalPrice": null,
+                "stock": 5
+            },
+            {
+                "sku": "ADI-GAL6-BR-40",
+                "size": "40",
+                "color": "Branco",
+                "price": 469.9,
+                "originalPrice": null,
+                "stock": 19
+            },
+            {
+                "sku": "ADI-GAL6-BR-41",
+                "size": "41",
+                "color": "Branco",
+                "price": 469.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "ADI-GAL6-BR-43",
+                "size": "43",
+                "color": "Branco",
+                "price": 469.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "ADI-GAL6-AM-39",
+                "size": "39",
+                "color": "Azul Marinho",
+                "price": 429.9,
+                "originalPrice": null,
+                "stock": 23
+            },
+            {
+                "sku": "ADI-GAL6-AM-40",
+                "size": "40",
+                "color": "Azul Marinho",
+                "price": 429.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "ADI-GAL6-AM-42",
+                "size": "42",
+                "color": "Azul Marinho",
+                "price": 429.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "ADI-GAL6-AM-44",
+                "size": "44",
+                "color": "Azul Marinho",
+                "price": 429.9,
+                "originalPrice": null,
+                "stock": 3
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/adidas-galaxy-6-preto/400/500",
+            "Branco": "https://picsum.photos/seed/adidas-galaxy-6-branco/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/adidas-galaxy-6-azul-marinho/400/500"
+        }
+    },
+    {
+        "slug": "adidas-runfalcon-3",
+        "name": "Tênis Adidas Runfalcon 3",
+        "brand": "Adidas",
+        "subcategory": "tenis",
+        "gender": "masculino",
+        "description": "O Adidas Runfalcon 3 combina leveza e durabilidade para uso casual e esportivo. Solado de borracha resistente que garante excelente tração.",
+        "images": [
+            "https://picsum.photos/seed/adidas-runfalcon-3/400/500"
+        ],
+        "featured": false,
+        "rating": 4.1,
+        "reviews": 33,
+        "discountPercentage": 20,
+        "colors": [
+            "Preto",
+            "Cinza"
+        ],
+        "details": {
+            "material": "Têxtil e sintético",
+            "care": "Limpar com pano úmido e sabão neutro"
+        },
+        "variants": [
+            {
+                "sku": "ADI-RF3-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 279.9,
+                "originalPrice": 349.9,
+                "stock": 18
+            },
+            {
+                "sku": "ADI-RF3-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 279.9,
+                "originalPrice": 349.9,
+                "stock": 24
+            },
+            {
+                "sku": "ADI-RF3-PT-40",
+                "size": "40",
+                "color": "Preto",
+                "price": 279.9,
+                "originalPrice": 349.9,
+                "stock": 30
+            },
+            {
+                "sku": "ADI-RF3-PT-42",
+                "size": "42",
+                "color": "Preto",
+                "price": 279.9,
+                "originalPrice": 349.9,
+                "stock": 10
+            },
+            {
+                "sku": "ADI-RF3-PT-44",
+                "size": "44",
+                "color": "Preto",
+                "price": 279.9,
+                "originalPrice": 349.9,
+                "stock": 6
+            },
+            {
+                "sku": "ADI-RF3-CZ-38",
+                "size": "38",
+                "color": "Cinza",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "ADI-RF3-CZ-39",
+                "size": "39",
+                "color": "Cinza",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 0
+            },
+            {
+                "sku": "ADI-RF3-CZ-41",
+                "size": "41",
+                "color": "Cinza",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "ADI-RF3-CZ-43",
+                "size": "43",
+                "color": "Cinza",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 9
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/adidas-runfalcon-3-preto/400/500",
+            "Cinza": "https://picsum.photos/seed/adidas-runfalcon-3-cinza/400/500"
+        }
+    },
+    {
+        "slug": "puma-smash-v2",
+        "name": "Tênis Puma Smash V2",
+        "brand": "Puma",
+        "subcategory": "tenis",
+        "gender": "masculino",
+        "description": "O Puma Smash V2 é um tênis casual inspirado no estilo vintage do tênis. Design clássico com cabedal em couro sintético e conforto para o dia todo.",
+        "images": [
+            "https://picsum.photos/seed/puma-smash-v2/400/500"
+        ],
+        "featured": true,
+        "rating": 4.6,
+        "reviews": 91,
+        "discountPercentage": 10,
+        "colors": [
+            "Branco",
+            "Preto",
+            "Verde"
+        ],
+        "details": {
+            "material": "Couro sintético e camurça",
+            "care": "Limpar com pano úmido e sabão neutro"
+        },
+        "variants": [
+            {
+                "sku": "PUM-SMV2-BR-38",
+                "size": "38",
+                "color": "Branco",
+                "price": 269.9,
+                "originalPrice": 299.9,
+                "stock": 28
+            },
+            {
+                "sku": "PUM-SMV2-BR-39",
+                "size": "39",
+                "color": "Branco",
+                "price": 269.9,
+                "originalPrice": 299.9,
+                "stock": 20
+            },
+            {
+                "sku": "PUM-SMV2-BR-40",
+                "size": "40",
+                "color": "Branco",
+                "price": 269.9,
+                "originalPrice": 299.9,
+                "stock": 15
+            },
+            {
+                "sku": "PUM-SMV2-BR-42",
+                "size": "42",
+                "color": "Branco",
+                "price": 269.9,
+                "originalPrice": 299.9,
+                "stock": 7
+            },
+            {
+                "sku": "PUM-SMV2-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "PUM-SMV2-PT-40",
+                "size": "40",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 19
+            },
+            {
+                "sku": "PUM-SMV2-PT-41",
+                "size": "41",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 13
+            },
+            {
+                "sku": "PUM-SMV2-PT-43",
+                "size": "43",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 4
+            },
+            {
+                "sku": "PUM-SMV2-PT-44",
+                "size": "44",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 0
+            },
+            {
+                "sku": "PUM-SMV2-VD-38",
+                "size": "38",
+                "color": "Verde",
+                "price": 279.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "PUM-SMV2-VD-41",
+                "size": "41",
+                "color": "Verde",
+                "price": 279.9,
+                "originalPrice": null,
+                "stock": 24
+            },
+            {
+                "sku": "PUM-SMV2-VD-42",
+                "size": "42",
+                "color": "Verde",
+                "price": 279.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "PUM-SMV2-VD-44",
+                "size": "44",
+                "color": "Verde",
+                "price": 279.9,
+                "originalPrice": null,
+                "stock": 2
+            }
+        ],
+        "colorImages": {
+            "Branco": "https://picsum.photos/seed/puma-smash-v2-branco/400/500",
+            "Preto": "https://picsum.photos/seed/puma-smash-v2-preto/400/500",
+            "Verde": "https://picsum.photos/seed/puma-smash-v2-verde/400/500"
+        }
+    },
+    {
+        "slug": "puma-carina-2",
+        "name": "Tênis Puma Carina 2",
+        "brand": "Puma",
+        "subcategory": "tenis",
+        "gender": "masculino",
+        "description": "O Puma Carina 2 traz um estilo retrô modernizado com detalhes em camurça e couro. Perfeito para compor looks casuais e despojados.",
+        "images": [
+            "https://picsum.photos/seed/puma-carina-2/400/500"
+        ],
+        "featured": false,
+        "rating": 4.4,
+        "reviews": 55,
+        "discountPercentage": 0,
+        "colors": [
+            "Bege",
+            "Marrom"
+        ],
+        "details": {
+            "material": "Couro sintético e camurça",
+            "care": "Limpar com pano úmido e sabão neutro"
+        },
+        "variants": [
+            {
+                "sku": "PUM-CAR2-BG-38",
+                "size": "38",
+                "color": "Bege",
+                "price": 319.9,
+                "originalPrice": null,
+                "stock": 17
+            },
+            {
+                "sku": "PUM-CAR2-BG-39",
+                "size": "39",
+                "color": "Bege",
+                "price": 319.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "PUM-CAR2-BG-40",
+                "size": "40",
+                "color": "Bege",
+                "price": 319.9,
+                "originalPrice": null,
+                "stock": 0
+            },
+            {
+                "sku": "PUM-CAR2-BG-41",
+                "size": "41",
+                "color": "Bege",
+                "price": 319.9,
+                "originalPrice": null,
+                "stock": 21
+            },
+            {
+                "sku": "PUM-CAR2-BG-43",
+                "size": "43",
+                "color": "Bege",
+                "price": 319.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "PUM-CAR2-MR-38",
+                "size": "38",
+                "color": "Marrom",
+                "price": 339.9,
+                "originalPrice": null,
+                "stock": 5
+            },
+            {
+                "sku": "PUM-CAR2-MR-39",
+                "size": "39",
+                "color": "Marrom",
+                "price": 339.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "PUM-CAR2-MR-42",
+                "size": "42",
+                "color": "Marrom",
+                "price": 339.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "PUM-CAR2-MR-44",
+                "size": "44",
+                "color": "Marrom",
+                "price": 339.9,
+                "originalPrice": null,
+                "stock": 3
+            }
+        ],
+        "colorImages": {
+            "Bege": "https://picsum.photos/seed/puma-carina-2-bege/400/500",
+            "Marrom": "https://picsum.photos/seed/puma-carina-2-marrom/400/500"
+        }
+    },
+    {
+        "slug": "vestido-flora-farm",
+        "name": "Vestido Flora",
+        "brand": "Farm",
+        "subcategory": "vestidos",
+        "gender": "feminino",
+        "description": "Vestido estampado com modelagem soltinha e tecido leve de viscose. Ideal para dias quentes com conforto e estilo.",
+        "images": [
+            "https://picsum.photos/seed/vestido-flora-farm/400/500"
+        ],
+        "featured": true,
+        "rating": 4.7,
+        "reviews": 85,
+        "discountPercentage": 0,
+        "colors": [
+            "Azul Celeste",
+            "Rosa"
+        ],
+        "details": {
+            "material": "100% Viscose",
+            "care": "Lavar à mão. Não usar alvejante. Secar à sombra."
+        },
+        "variants": [
+            {
+                "sku": "FARM-VF-001",
+                "size": "PP",
+                "color": "Azul Celeste",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "FARM-VF-002",
+                "size": "P",
+                "color": "Azul Celeste",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "FARM-VF-003",
+                "size": "M",
+                "color": "Azul Celeste",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "FARM-VF-004",
+                "size": "G",
+                "color": "Azul Celeste",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "FARM-VF-005",
+                "size": "GG",
+                "color": "Azul Celeste",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 5
+            },
+            {
+                "sku": "FARM-VF-006",
+                "size": "PP",
+                "color": "Rosa",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "FARM-VF-007",
+                "size": "P",
+                "color": "Rosa",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "FARM-VF-008",
+                "size": "M",
+                "color": "Rosa",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "FARM-VF-009",
+                "size": "G",
+                "color": "Rosa",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "FARM-VF-010",
+                "size": "GG",
+                "color": "Rosa",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 4
+            }
+        ],
+        "colorImages": {
+            "Azul Celeste": "https://picsum.photos/seed/vestido-flora-farm-azul-celeste/400/500",
+            "Rosa": "https://picsum.photos/seed/vestido-flora-farm-rosa/400/500"
+        }
+    },
+    {
+        "slug": "vestido-tropical-farm",
+        "name": "Vestido Tropical",
+        "brand": "Farm",
+        "subcategory": "vestidos",
+        "gender": "feminino",
+        "description": "Vestido longo com estampa de folhagens e decote em V. Conforto e frescor para momentos especiais.",
+        "images": [
+            "https://picsum.photos/seed/vestido-tropical-farm/400/500"
+        ],
+        "featured": false,
+        "rating": 4.5,
+        "reviews": 62,
+        "discountPercentage": 15,
+        "colors": [
+            "Verde Musgo",
+            "Amarelo Sol"
+        ],
+        "details": {
+            "material": "100% Algodão",
+            "care": "Lavar à máquina em ciclo delicado. Não torcer."
+        },
+        "variants": [
+            {
+                "sku": "FARM-VT-001",
+                "size": "PP",
+                "color": "Verde Musgo",
+                "price": 149.9,
+                "originalPrice": 149.9,
+                "stock": 9
+            },
+            {
+                "sku": "FARM-VT-002",
+                "size": "P",
+                "color": "Verde Musgo",
+                "price": 149.9,
+                "originalPrice": 149.9,
+                "stock": 15
+            },
+            {
+                "sku": "FARM-VT-003",
+                "size": "M",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "stock": 22
+            },
+            {
+                "sku": "FARM-VT-004",
+                "size": "G",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "stock": 11
+            },
+            {
+                "sku": "FARM-VT-005",
+                "size": "GG",
+                "color": "Verde Musgo",
+                "price": 149.9,
+                "originalPrice": 149.9,
+                "stock": 3
+            },
+            {
+                "sku": "FARM-VT-006",
+                "size": "PP",
+                "color": "Amarelo Sol",
+                "price": 149.9,
+                "originalPrice": 149.9,
+                "stock": 7
+            },
+            {
+                "sku": "FARM-VT-007",
+                "size": "P",
+                "color": "Amarelo Sol",
+                "price": 149.9,
+                "originalPrice": 149.9,
+                "stock": 14
+            },
+            {
+                "sku": "FARM-VT-008",
+                "size": "M",
+                "color": "Amarelo Sol",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "stock": 19
+            },
+            {
+                "sku": "FARM-VT-009",
+                "size": "G",
+                "color": "Amarelo Sol",
+                "price": 119.9,
+                "originalPrice": 149.9,
+                "stock": 10
+            },
+            {
+                "sku": "FARM-VT-010",
+                "size": "GG",
+                "color": "Amarelo Sol",
+                "price": 149.9,
+                "originalPrice": 149.9,
+                "stock": 2
+            }
+        ],
+        "colorImages": {
+            "Verde Musgo": "https://picsum.photos/seed/vestido-tropical-farm-verde-musgo/400/500",
+            "Amarelo Sol": "https://picsum.photos/seed/vestido-tropical-farm-amarelo-sol/400/500"
+        }
+    },
+    {
+        "slug": "vestido-midi-listrado-zara",
+        "name": "Vestido Midi Listrado",
+        "brand": "Zara",
+        "subcategory": "vestidos",
+        "gender": "feminino",
+        "description": "Vestido midi com listras finas e cinto na cintura. Elegância atemporal para o dia a dia.",
+        "images": [
+            "https://picsum.photos/seed/vestido-midi-listrado-zara/400/500"
+        ],
+        "featured": true,
+        "rating": 4.8,
+        "reviews": 93,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Branco"
+        ],
+        "details": {
+            "material": "Poliamida e Elastano",
+            "care": "Lavar à máquina até 30°C. Não usar secadora."
+        },
+        "variants": [
+            {
+                "sku": "ZARA-VML-001",
+                "size": "PP",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "ZARA-VML-002",
+                "size": "P",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 25
+            },
+            {
+                "sku": "ZARA-VML-003",
+                "size": "M",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 30
+            },
+            {
+                "sku": "ZARA-VML-004",
+                "size": "G",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "ZARA-VML-005",
+                "size": "GG",
+                "color": "Preto",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 6
+            },
+            {
+                "sku": "ZARA-VML-006",
+                "size": "PP",
+                "color": "Branco",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "ZARA-VML-007",
+                "size": "P",
+                "color": "Branco",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "ZARA-VML-008",
+                "size": "M",
+                "color": "Branco",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 28
+            },
+            {
+                "sku": "ZARA-VML-009",
+                "size": "G",
+                "color": "Branco",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "ZARA-VML-010",
+                "size": "GG",
+                "color": "Branco",
+                "price": 259.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/vestido-midi-listrado-zara-preto/400/500",
+            "Branco": "https://picsum.photos/seed/vestido-midi-listrado-zara-branco/400/500"
+        }
+    },
+    {
+        "slug": "vestido-curto-floral-zara",
+        "name": "Vestido Curto Floral",
+        "brand": "Zara",
+        "subcategory": "vestidos",
+        "gender": "feminino",
+        "description": "Vestido curto com estampa floral e mangas bufantes. Romântico e versátil para qualquer ocasião.",
+        "images": [
+            "https://picsum.photos/seed/vestido-curto-floral-zara/400/500"
+        ],
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 47,
+        "discountPercentage": 20,
+        "colors": [
+            "Vermelho",
+            "Azul Marinho"
+        ],
+        "details": {
+            "material": "Poliéster e Algodão",
+            "care": "Lavar à mão. Não secar em máquina. Passar a ferro baixo."
+        },
+        "variants": [
+            {
+                "sku": "ZARA-VCF-001",
+                "size": "PP",
+                "color": "Vermelho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 8
+            },
+            {
+                "sku": "ZARA-VCF-002",
+                "size": "P",
+                "color": "Vermelho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 17
+            },
+            {
+                "sku": "ZARA-VCF-003",
+                "size": "M",
+                "color": "Vermelho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 24
+            },
+            {
+                "sku": "ZARA-VCF-004",
+                "size": "G",
+                "color": "Vermelho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 13
+            },
+            {
+                "sku": "ZARA-VCF-005",
+                "size": "GG",
+                "color": "Vermelho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 4
+            },
+            {
+                "sku": "ZARA-VCF-006",
+                "size": "PP",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 6
+            },
+            {
+                "sku": "ZARA-VCF-007",
+                "size": "P",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 15
+            },
+            {
+                "sku": "ZARA-VCF-008",
+                "size": "M",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 21
+            },
+            {
+                "sku": "ZARA-VCF-009",
+                "size": "G",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 11
+            },
+            {
+                "sku": "ZARA-VCF-010",
+                "size": "GG",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 3
+            }
+        ],
+        "colorImages": {
+            "Vermelho": "https://picsum.photos/seed/vestido-curto-floral-zara-vermelho/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/vestido-curto-floral-zara-azul-marinho/400/500"
+        }
+    },
+    {
+        "slug": "vestido-tubinho-animale",
+        "name": "Vestido Tubinho Pretinho",
+        "brand": "Animale",
+        "subcategory": "vestidos",
+        "gender": "feminino",
+        "description": "Vestido tubinho estruturado com decote reto e comprimento midi. Clássico essencial do guarda-roupa feminino.",
+        "images": [
+            "https://picsum.photos/seed/vestido-tubinho-animale/400/500"
+        ],
+        "featured": true,
+        "rating": 4.9,
+        "reviews": 72,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Vermelho"
+        ],
+        "details": {
+            "material": "96% Viscose, 4% Elastano",
+            "care": "Lavar à máquina em ciclo delicado. Não usar alvejante."
+        },
+        "variants": [
+            {
+                "sku": "ANI-VTP-001",
+                "size": "PP",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "ANI-VTP-002",
+                "size": "P",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "ANI-VTP-003",
+                "size": "M",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 28
+            },
+            {
+                "sku": "ANI-VTP-004",
+                "size": "G",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "ANI-VTP-005",
+                "size": "GG",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "ANI-VTP-006",
+                "size": "PP",
+                "color": "Vermelho",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "ANI-VTP-007",
+                "size": "P",
+                "color": "Vermelho",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 19
+            },
+            {
+                "sku": "ANI-VTP-008",
+                "size": "M",
+                "color": "Vermelho",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 24
+            },
+            {
+                "sku": "ANI-VTP-009",
+                "size": "G",
+                "color": "Vermelho",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "ANI-VTP-010",
+                "size": "GG",
+                "color": "Vermelho",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/vestido-tubinho-animale-preto/400/500",
+            "Vermelho": "https://picsum.photos/seed/vestido-tubinho-animale-vermelho/400/500"
+        }
+    },
+    {
+        "slug": "vestido-plissado-animale",
+        "name": "Vestido Plissado",
+        "brand": "Animale",
+        "subcategory": "vestidos",
+        "gender": "feminino",
+        "description": "Vestido plissado com cintura marcada e saia rodada. Sofisticação e movimento em cada passo.",
+        "images": [
+            "https://picsum.photos/seed/vestido-plissado-animale/400/500"
+        ],
+        "featured": false,
+        "rating": 4.4,
+        "reviews": 38,
+        "discountPercentage": 25,
+        "colors": [
+            "Cinza Chumbo",
+            "Bordô"
+        ],
+        "details": {
+            "material": "100% Poliéster",
+            "care": "Lavar à mão. Não torcer. Passar a ferro moderado."
+        },
+        "variants": [
+            {
+                "sku": "ANI-VP-001",
+                "size": "PP",
+                "color": "Cinza Chumbo",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 11
+            },
+            {
+                "sku": "ANI-VP-002",
+                "size": "P",
+                "color": "Cinza Chumbo",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 20
+            },
+            {
+                "sku": "ANI-VP-003",
+                "size": "M",
+                "color": "Cinza Chumbo",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 26
+            },
+            {
+                "sku": "ANI-VP-004",
+                "size": "G",
+                "color": "Cinza Chumbo",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 15
+            },
+            {
+                "sku": "ANI-VP-005",
+                "size": "GG",
+                "color": "Cinza Chumbo",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 6
+            },
+            {
+                "sku": "ANI-VP-006",
+                "size": "PP",
+                "color": "Bordô",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 9
+            },
+            {
+                "sku": "ANI-VP-007",
+                "size": "P",
+                "color": "Bordô",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 18
+            },
+            {
+                "sku": "ANI-VP-008",
+                "size": "M",
+                "color": "Bordô",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 23
+            },
+            {
+                "sku": "ANI-VP-009",
+                "size": "G",
+                "color": "Bordô",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 13
+            },
+            {
+                "sku": "ANI-VP-010",
+                "size": "GG",
+                "color": "Bordô",
+                "price": 179.9,
+                "originalPrice": 239.9,
+                "stock": 4
+            }
+        ],
+        "colorImages": {
+            "Cinza Chumbo": "https://picsum.photos/seed/vestido-plissado-animale-cinza-chumbo/400/500",
+            "Bordô": "https://picsum.photos/seed/vestido-plissado-animale-bordô/400/500"
+        }
+    },
+    {
+        "slug": "calca-cintura-alta-hm",
+        "name": "Calça Reta Cintura Alta",
+        "brand": "H&M",
+        "subcategory": "calcas-shorts",
+        "gender": "feminino",
+        "description": "Calça reta de cintura alta com tecido crepe e modelagem elegante. Perfeita para o trabalho e eventos casuais.",
+        "images": [
+            "https://picsum.photos/seed/calca-cintura-alta-hm/400/500"
+        ],
+        "featured": true,
+        "rating": 4.6,
+        "reviews": 55,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Bege"
+        ],
+        "details": {
+            "material": "70% Viscose, 30% Poliamida",
+            "care": "Lavar à máquina até 30°C. Secar na horizontal."
+        },
+        "variants": [
+            {
+                "sku": "HM-CCA-001",
+                "size": "36",
+                "color": "Preto",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "HM-CCA-002",
+                "size": "38",
+                "color": "Preto",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 28
+            },
+            {
+                "sku": "HM-CCA-003",
+                "size": "40",
+                "color": "Preto",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 32
+            },
+            {
+                "sku": "HM-CCA-004",
+                "size": "42",
+                "color": "Preto",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "HM-CCA-005",
+                "size": "44",
+                "color": "Preto",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "HM-CCA-006",
+                "size": "36",
+                "color": "Bege",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "HM-CCA-007",
+                "size": "38",
+                "color": "Bege",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 25
+            },
+            {
+                "sku": "HM-CCA-008",
+                "size": "40",
+                "color": "Bege",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 29
+            },
+            {
+                "sku": "HM-CCA-009",
+                "size": "42",
+                "color": "Bege",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "HM-CCA-010",
+                "size": "44",
+                "color": "Bege",
+                "price": 179.9,
+                "originalPrice": null,
+                "stock": 6
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/calca-cintura-alta-hm-preto/400/500",
+            "Bege": "https://picsum.photos/seed/calca-cintura-alta-hm-bege/400/500"
+        }
+    },
+    {
+        "slug": "shorts-jeans-destroyed-hm",
+        "name": "Shorts Jeans Destroyed",
+        "brand": "H&M",
+        "subcategory": "calcas-shorts",
+        "gender": "feminino",
+        "description": "Shorts jeans destroyed com barra desfiada e corte moderno. Despojado e estiloso para o verão.",
+        "images": [
+            "https://picsum.photos/seed/shorts-jeans-destroyed-hm/400/500"
+        ],
+        "featured": false,
+        "rating": 4.2,
+        "reviews": 31,
+        "discountPercentage": 10,
+        "colors": [
+            "Azul Claro",
+            "Azul Escuro"
+        ],
+        "details": {
+            "material": "100% Denim",
+            "care": "Lavar à máquina. Não usar alvejante. Secar à sombra."
+        },
+        "variants": [
+            {
+                "sku": "HM-SJD-001",
+                "size": "36",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 12
+            },
+            {
+                "sku": "HM-SJD-002",
+                "size": "38",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 21
+            },
+            {
+                "sku": "HM-SJD-003",
+                "size": "40",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 27
+            },
+            {
+                "sku": "HM-SJD-004",
+                "size": "42",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 15
+            },
+            {
+                "sku": "HM-SJD-005",
+                "size": "44",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 5
+            },
+            {
+                "sku": "HM-SJD-006",
+                "size": "36",
+                "color": "Azul Escuro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 10
+            },
+            {
+                "sku": "HM-SJD-007",
+                "size": "38",
+                "color": "Azul Escuro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 19
+            },
+            {
+                "sku": "HM-SJD-008",
+                "size": "40",
+                "color": "Azul Escuro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 24
+            },
+            {
+                "sku": "HM-SJD-009",
+                "size": "42",
+                "color": "Azul Escuro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 14
+            },
+            {
+                "sku": "HM-SJD-010",
+                "size": "44",
+                "color": "Azul Escuro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 4
+            }
+        ],
+        "colorImages": {
+            "Azul Claro": "https://picsum.photos/seed/shorts-jeans-destroyed-hm-azul-claro/400/500",
+            "Azul Escuro": "https://picsum.photos/seed/shorts-jeans-destroyed-hm-azul-escuro/400/500"
+        }
+    },
+    {
+        "slug": "calca-pantalona-hm",
+        "name": "Calça Pantalona",
+        "brand": "H&M",
+        "subcategory": "calcas-shorts",
+        "gender": "feminino",
+        "description": "Calça pantalona com tecido fluido e cós elastizado. Elegância confortável para looks sofisticados.",
+        "images": [
+            "https://picsum.photos/seed/calca-pantalona-hm/400/500"
+        ],
+        "featured": true,
+        "rating": 4.5,
+        "reviews": 44,
+        "discountPercentage": 0,
+        "colors": [
+            "Marinho",
+            "Cinza"
+        ],
+        "details": {
+            "material": "100% Viscose",
+            "care": "Lavar à mão. Não secar em máquina. Passar a vapor."
+        },
+        "variants": [
+            {
+                "sku": "HM-CP-001",
+                "size": "36",
+                "color": "Marinho",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 13
+            },
+            {
+                "sku": "HM-CP-002",
+                "size": "38",
+                "color": "Marinho",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 24
+            },
+            {
+                "sku": "HM-CP-003",
+                "size": "40",
+                "color": "Marinho",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 30
+            },
+            {
+                "sku": "HM-CP-004",
+                "size": "42",
+                "color": "Marinho",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 17
+            },
+            {
+                "sku": "HM-CP-005",
+                "size": "44",
+                "color": "Marinho",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "HM-CP-006",
+                "size": "36",
+                "color": "Cinza",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "HM-CP-007",
+                "size": "38",
+                "color": "Cinza",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "HM-CP-008",
+                "size": "40",
+                "color": "Cinza",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 26
+            },
+            {
+                "sku": "HM-CP-009",
+                "size": "42",
+                "color": "Cinza",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "HM-CP-010",
+                "size": "44",
+                "color": "Cinza",
+                "price": 189.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Marinho": "https://picsum.photos/seed/calca-pantalona-hm-marinho/400/500",
+            "Cinza": "https://picsum.photos/seed/calca-pantalona-hm-cinza/400/500"
+        }
+    },
+    {
+        "slug": "tenis-casual-renner-fem",
+        "name": "T�nis Casual Feminino Renner",
+        "brand": "Renner",
+        "subcategory": "sapatos",
+        "gender": "feminino",
+        "description": "T�nis casual feminino com design moderno e conforto para o dia a dia. Solado flex�vel e cabedal em material respir�vel.",
+        "images": [
+            "https://picsum.photos/seed/tenis-casual-renner-fem/400/500"
+        ],
+        "featured": true,
+        "rating": 4.5,
+        "reviews": 78,
+        "discountPercentage": 10,
+        "colors": [
+            "Branco",
+            "Preto",
+            "Rosa"
+        ],
+        "details": {
+            "material": "Lona e borracha",
+            "care": "Limpar com pano �mido e sab�o neutro"
+        },
+        "variants": [
+            {
+                "sku": "REN-SAP-TEN-01-BR-34",
+                "size": "34",
+                "color": "Branco",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 12
+            },
+            {
+                "sku": "REN-SAP-TEN-01-BR-35",
+                "size": "35",
+                "color": "Branco",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 15
+            },
+            {
+                "sku": "REN-SAP-TEN-01-BR-36",
+                "size": "36",
+                "color": "Branco",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 20
+            },
+            {
+                "sku": "REN-SAP-TEN-01-BR-37",
+                "size": "37",
+                "color": "Branco",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 18
+            },
+            {
+                "sku": "REN-SAP-TEN-01-BR-38",
+                "size": "38",
+                "color": "Branco",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 10
+            },
+            {
+                "sku": "REN-SAP-TEN-01-BR-39",
+                "size": "39",
+                "color": "Branco",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 8
+            },
+            {
+                "sku": "REN-SAP-TEN-01-PT-34",
+                "size": "34",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 14
+            },
+            {
+                "sku": "REN-SAP-TEN-01-PT-35",
+                "size": "35",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 11
+            },
+            {
+                "sku": "REN-SAP-TEN-01-PT-36",
+                "size": "36",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 22
+            },
+            {
+                "sku": "REN-SAP-TEN-01-PT-37",
+                "size": "37",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 17
+            },
+            {
+                "sku": "REN-SAP-TEN-01-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 9
+            },
+            {
+                "sku": "REN-SAP-TEN-01-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 6
+            },
+            {
+                "sku": "REN-SAP-TEN-01-RO-34",
+                "size": "34",
+                "color": "Rosa",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 5
+            },
+            {
+                "sku": "REN-SAP-TEN-01-RO-35",
+                "size": "35",
+                "color": "Rosa",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 7
+            },
+            {
+                "sku": "REN-SAP-TEN-01-RO-36",
+                "size": "36",
+                "color": "Rosa",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 13
+            },
+            {
+                "sku": "REN-SAP-TEN-01-RO-37",
+                "size": "37",
+                "color": "Rosa",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 9
+            },
+            {
+                "sku": "REN-SAP-TEN-01-RO-38",
+                "size": "38",
+                "color": "Rosa",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 4
+            },
+            {
+                "sku": "REN-SAP-TEN-01-RO-39",
+                "size": "39",
+                "color": "Rosa",
+                "price": 129.9,
+                "originalPrice": 149.9,
+                "stock": 3
+            }
+        ],
+        "colorImages": {
+            "Branco": "https://picsum.photos/seed/tenis-casual-renner-fem-branco/400/500",
+            "Preto": "https://picsum.photos/seed/tenis-casual-renner-fem-preto/400/500",
+            "Rosa": "https://picsum.photos/seed/tenis-casual-renner-fem-rosa/400/500"
+        }
+    },
+    {
+        "slug": "sapatilha-conforto-renner-fem",
+        "name": "Sapatilha Conforto Feminina Renner",
+        "brand": "Renner",
+        "subcategory": "sapatos",
+        "gender": "feminino",
+        "description": "Sapatilha feminina com palmilha macia e design elegante. Ideal para uso di�rio com muito conforto.",
+        "images": [
+            "https://picsum.photos/seed/sapatilha-conforto-renner-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4.2,
+        "reviews": 45,
+        "discountPercentage": 0,
+        "colors": [
+            "Bege",
+            "Marrom"
+        ],
+        "details": {
+            "material": "Couro sint�tico",
+            "care": "Limpar com pano �mido"
+        },
+        "variants": [
+            {
+                "sku": "REN-SAP-SAP-01-BE-34",
+                "size": "34",
+                "color": "Bege",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "REN-SAP-SAP-01-BE-35",
+                "size": "35",
+                "color": "Bege",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "REN-SAP-SAP-01-BE-36",
+                "size": "36",
+                "color": "Bege",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 19
+            },
+            {
+                "sku": "REN-SAP-SAP-01-BE-37",
+                "size": "37",
+                "color": "Bege",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "REN-SAP-SAP-01-BE-38",
+                "size": "38",
+                "color": "Bege",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "REN-SAP-SAP-01-BE-39",
+                "size": "39",
+                "color": "Bege",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "REN-SAP-SAP-01-MR-34",
+                "size": "34",
+                "color": "Marrom",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "REN-SAP-SAP-01-MR-35",
+                "size": "35",
+                "color": "Marrom",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "REN-SAP-SAP-01-MR-36",
+                "size": "36",
+                "color": "Marrom",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 17
+            },
+            {
+                "sku": "REN-SAP-SAP-01-MR-37",
+                "size": "37",
+                "color": "Marrom",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 13
+            },
+            {
+                "sku": "REN-SAP-SAP-01-MR-38",
+                "size": "38",
+                "color": "Marrom",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "REN-SAP-SAP-01-MR-39",
+                "size": "39",
+                "color": "Marrom",
+                "price": 89.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Bege": "https://picsum.photos/seed/sapatilha-conforto-renner-fem-bege/400/500",
+            "Marrom": "https://picsum.photos/seed/sapatilha-conforto-renner-fem-marrom/400/500"
+        }
+    },
+    {
+        "slug": "bota-cano-curto-renner-fem",
+        "name": "Bota Cano Curto Feminina Renner",
+        "brand": "Renner",
+        "subcategory": "sapatos",
+        "gender": "feminino",
+        "description": "Bota feminina de cano curto com sola tratorada e estilo contempor�neo. Perfeita para compor looks casuais e despojados.",
+        "images": [
+            "https://picsum.photos/seed/bota-cano-curto-renner-fem/400/500"
+        ],
+        "featured": true,
+        "rating": 4.7,
+        "reviews": 92,
+        "discountPercentage": 15,
+        "colors": [
+            "Preto",
+            "Caramelo"
+        ],
+        "details": {
+            "material": "Couro leg�timo e borracha",
+            "care": "Hidratar com creme pr�prio para couro"
+        },
+        "variants": [
+            {
+                "sku": "REN-SAP-BOT-01-PT-34",
+                "size": "34",
+                "color": "Preto",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 6
+            },
+            {
+                "sku": "REN-SAP-BOT-01-PT-35",
+                "size": "35",
+                "color": "Preto",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 9
+            },
+            {
+                "sku": "REN-SAP-BOT-01-PT-36",
+                "size": "36",
+                "color": "Preto",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 15
+            },
+            {
+                "sku": "REN-SAP-BOT-01-PT-37",
+                "size": "37",
+                "color": "Preto",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 12
+            },
+            {
+                "sku": "REN-SAP-BOT-01-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 8
+            },
+            {
+                "sku": "REN-SAP-BOT-01-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 4
+            },
+            {
+                "sku": "REN-SAP-BOT-01-CA-34",
+                "size": "34",
+                "color": "Caramelo",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 5
+            },
+            {
+                "sku": "REN-SAP-BOT-01-CA-35",
+                "size": "35",
+                "color": "Caramelo",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 7
+            },
+            {
+                "sku": "REN-SAP-BOT-01-CA-36",
+                "size": "36",
+                "color": "Caramelo",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 11
+            },
+            {
+                "sku": "REN-SAP-BOT-01-CA-37",
+                "size": "37",
+                "color": "Caramelo",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 10
+            },
+            {
+                "sku": "REN-SAP-BOT-01-CA-38",
+                "size": "38",
+                "color": "Caramelo",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 6
+            },
+            {
+                "sku": "REN-SAP-BOT-01-CA-39",
+                "size": "39",
+                "color": "Caramelo",
+                "price": 169.9,
+                "originalPrice": 199.9,
+                "stock": 3
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/bota-cano-curto-renner-fem-preto/400/500",
+            "Caramelo": "https://picsum.photos/seed/bota-cano-curto-renner-fem-caramelo/400/500"
+        }
+    },
+    {
+        "slug": "scarpin-arezze-fem",
+        "name": "Scarpin Cl�ssico Arezzo",
+        "brand": "Arezzo",
+        "subcategory": "saltos",
+        "gender": "feminino",
+        "description": "Scarpin feminino com bico fino e salto agulha elegante. Conforto e sofistica��o para ocasi�es especiais.",
+        "images": [
+            "https://picsum.photos/seed/scarpin-arezze-fem/400/500"
+        ],
+        "featured": true,
+        "rating": 4.8,
+        "reviews": 65,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Nude"
+        ],
+        "details": {
+            "material": "Couro leg�timo",
+            "care": "Evitar contato com �gua e armazenar em saquinhos"
+        },
+        "variants": [
+            {
+                "sku": "ARZ-SAL-SCA-01-PT-34",
+                "size": "34",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-PT-35",
+                "size": "35",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 12
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-PT-36",
+                "size": "36",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-PT-37",
+                "size": "37",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 6
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-NU-34",
+                "size": "34",
+                "color": "Nude",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-NU-35",
+                "size": "35",
+                "color": "Nude",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-NU-36",
+                "size": "36",
+                "color": "Nude",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-NU-37",
+                "size": "37",
+                "color": "Nude",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-NU-38",
+                "size": "38",
+                "color": "Nude",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "ARZ-SAL-SCA-01-NU-39",
+                "size": "39",
+                "color": "Nude",
+                "price": 299.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/scarpin-arezze-fem-preto/400/500",
+            "Nude": "https://picsum.photos/seed/scarpin-arezze-fem-nude/400/500"
+        }
+    },
+    {
+        "slug": "sandalia-salto-arezze-fem",
+        "name": "Sand�lia Salto Fino Arezzo",
+        "brand": "Arezzo",
+        "subcategory": "saltos",
+        "gender": "feminino",
+        "description": "Sand�lia de salto fino com tiras delicadas e fivela decorativa. Eleg�ncia atemporal para festas e eventos.",
+        "images": [
+            "https://picsum.photos/seed/sandalia-salto-arezze-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4.4,
+        "reviews": 38,
+        "discountPercentage": 20,
+        "colors": [
+            "Dourado",
+            "Prata"
+        ],
+        "details": {
+            "material": "Couro metalizado",
+            "care": "Limpar com flanela seca"
+        },
+        "variants": [
+            {
+                "sku": "ARZ-SAL-SAN-01-DO-34",
+                "size": "34",
+                "color": "Dourado",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 5
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-DO-35",
+                "size": "35",
+                "color": "Dourado",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 9
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-DO-36",
+                "size": "36",
+                "color": "Dourado",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 14
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-DO-37",
+                "size": "37",
+                "color": "Dourado",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 12
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-DO-38",
+                "size": "38",
+                "color": "Dourado",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 7
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-DO-39",
+                "size": "39",
+                "color": "Dourado",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 4
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-PR-34",
+                "size": "34",
+                "color": "Prata",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 6
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-PR-35",
+                "size": "35",
+                "color": "Prata",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 10
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-PR-36",
+                "size": "36",
+                "color": "Prata",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 16
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-PR-37",
+                "size": "37",
+                "color": "Prata",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 13
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-PR-38",
+                "size": "38",
+                "color": "Prata",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 8
+            },
+            {
+                "sku": "ARZ-SAL-SAN-01-PR-39",
+                "size": "39",
+                "color": "Prata",
+                "price": 239.9,
+                "originalPrice": 299.9,
+                "stock": 3
+            }
+        ],
+        "colorImages": {
+            "Dourado": "https://picsum.photos/seed/sandalia-salto-arezze-fem-dourado/400/500",
+            "Prata": "https://picsum.photos/seed/sandalia-salto-arezze-fem-prata/400/500"
+        }
+    },
+    {
+        "slug": "salto-fino-schutz-fem",
+        "name": "Salto Fino Schutz",
+        "brand": "Schutz",
+        "subcategory": "saltos",
+        "gender": "feminino",
+        "description": "Salto fino Schutz com design arrojado e acabamento impec�vel. Um cl�ssico moderno para mulheres que buscam estilo.",
+        "images": [
+            "https://picsum.photos/seed/salto-fino-schutz-fem/400/500"
+        ],
+        "featured": true,
+        "rating": 4.9,
+        "reviews": 54,
+        "discountPercentage": 0,
+        "colors": [
+            "Preto",
+            "Vermelho"
+        ],
+        "details": {
+            "material": "Couro leg�timo com acabamento laqueado",
+            "care": "Armazenar em ambiente seco e arejado"
+        },
+        "variants": [
+            {
+                "sku": "SCH-SAL-SAL-01-PT-34",
+                "size": "34",
+                "color": "Preto",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 4
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-PT-35",
+                "size": "35",
+                "color": "Preto",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-PT-36",
+                "size": "36",
+                "color": "Preto",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 11
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-PT-37",
+                "size": "37",
+                "color": "Preto",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-PT-38",
+                "size": "38",
+                "color": "Preto",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 5
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-PT-39",
+                "size": "39",
+                "color": "Preto",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 3
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-VM-34",
+                "size": "34",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 3
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-VM-35",
+                "size": "35",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 6
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-VM-36",
+                "size": "36",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-VM-37",
+                "size": "37",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 8
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-VM-38",
+                "size": "38",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 4
+            },
+            {
+                "sku": "SCH-SAL-SAL-01-VM-39",
+                "size": "39",
+                "color": "Vermelho",
+                "price": 359.9,
+                "originalPrice": null,
+                "stock": 2
+            }
+        ],
+        "colorImages": {
+            "Preto": "https://picsum.photos/seed/salto-fino-schutz-fem-preto/400/500",
+            "Vermelho": "https://picsum.photos/seed/salto-fino-schutz-fem-vermelho/400/500"
+        }
+    },
+    {
+        "slug": "anabela-schutz-fem",
+        "name": "Anabela Schutz",
+        "brand": "Schutz",
+        "subcategory": "saltos",
+        "gender": "feminino",
+        "description": "Sand�lia anabela Schutz com salto revestido e tiras largas. Conforto e estilo para o ver�o.",
+        "images": [
+            "https://picsum.photos/seed/anabela-schutz-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4.3,
+        "reviews": 29,
+        "discountPercentage": 25,
+        "colors": [
+            "Areia",
+            "Azul Marinho"
+        ],
+        "details": {
+            "material": "Couro eborrachado",
+            "care": "Limpar com escova macia e �gua"
+        },
+        "variants": [
+            {
+                "sku": "SCH-SAL-ANA-01-AR-34",
+                "size": "34",
+                "color": "Areia",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 9
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AR-35",
+                "size": "35",
+                "color": "Areia",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 13
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AR-36",
+                "size": "36",
+                "color": "Areia",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 20
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AR-37",
+                "size": "37",
+                "color": "Areia",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 17
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AR-38",
+                "size": "38",
+                "color": "Areia",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 11
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AR-39",
+                "size": "39",
+                "color": "Areia",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 6
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AM-34",
+                "size": "34",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 7
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AM-35",
+                "size": "35",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 11
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AM-36",
+                "size": "36",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 18
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AM-37",
+                "size": "37",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 14
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AM-38",
+                "size": "38",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 9
+            },
+            {
+                "sku": "SCH-SAL-ANA-01-AM-39",
+                "size": "39",
+                "color": "Azul Marinho",
+                "price": 159.9,
+                "originalPrice": 199.9,
+                "stock": 4
+            }
+        ],
+        "colorImages": {
+            "Areia": "https://picsum.photos/seed/anabela-schutz-fem-areia/400/500",
+            "Azul Marinho": "https://picsum.photos/seed/anabela-schutz-fem-azul-marinho/400/500"
+        }
+    },
+    {
+        "slug": "regata-riachuelo-fem",
+        "name": "Regata Feminina Riachuelo",
+        "brand": "Riachuelo",
+        "subcategory": "blusas",
+        "gender": "feminino",
+        "description": "Regata feminina em malha leve e fresca para o dia a dia. Modelagem reta com alças largas e conforto.",
+        "images": [
+            "https://picsum.photos/seed/regata-riachuelo-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4,
+        "reviews": 33,
+        "discountPercentage": 0,
+        "colors": [
+            "Branco",
+            "Preto"
+        ],
+        "details": {
+            "material": "100% algod�o",
+            "care": "Lavar � m�quina at� 40�C, n�o usar alvejante"
+        },
+        "variants": [
+            {
+                "sku": "RIA-BLU-REG-01-BR-PP",
+                "size": "PP",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "RIA-BLU-REG-01-BR-P",
+                "size": "P",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 35
+            },
+            {
+                "sku": "RIA-BLU-REG-01-BR-M",
+                "size": "M",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 40
+            },
+            {
+                "sku": "RIA-BLU-REG-01-BR-G",
+                "size": "G",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 25
+            },
+            {
+                "sku": "RIA-BLU-REG-01-BR-GG",
+                "size": "GG",
+                "color": "Branco",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 15
+            },
+            {
+                "sku": "RIA-BLU-REG-01-PT-PP",
+                "size": "PP",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 18
+            },
+            {
+                "sku": "RIA-BLU-REG-01-PT-P",
+                "size": "P",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 30
+            },
+            {
+                "sku": "RIA-BLU-REG-01-PT-M",
+                "size": "M",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 38
+            },
+            {
+                "sku": "RIA-BLU-REG-01-PT-G",
+                "size": "G",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "RIA-BLU-REG-01-PT-GG",
+                "size": "GG",
+                "color": "Preto",
+                "price": 49.9,
+                "originalPrice": null,
+                "stock": 12
+            }
+        ],
+        "colorImages": {
+            "Branco": "https://picsum.photos/seed/regata-riachuelo-fem-branco/400/500",
+            "Preto": "https://picsum.photos/seed/regata-riachuelo-fem-preto/400/500"
+        }
+    },
+    {
+        "slug": "camisa-riachuelo-fem",
+        "name": "Camisa Social Feminina Riachuelo",
+        "brand": "Riachuelo",
+        "subcategory": "blusas",
+        "gender": "feminino",
+        "description": "Camisa social feminina com modelagem ajustada e colarinho cl�ssico. Perfeita para o ambiente profissional com eleg�ncia.",
+        "images": [
+            "https://picsum.photos/seed/camisa-riachuelo-fem/400/500"
+        ],
+        "featured": true,
+        "rating": 4.6,
+        "reviews": 71,
+        "discountPercentage": 10,
+        "colors": [
+            "Branco",
+            "Azul Claro"
+        ],
+        "details": {
+            "material": "Algod�o e elastano",
+            "care": "Passar em temperatura m�dia, lavar � m�quina"
+        },
+        "variants": [
+            {
+                "sku": "RIA-BLU-CAM-01-BR-PP",
+                "size": "PP",
+                "color": "Branco",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 14
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-BR-P",
+                "size": "P",
+                "color": "Branco",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 28
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-BR-M",
+                "size": "M",
+                "color": "Branco",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 34
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-BR-G",
+                "size": "G",
+                "color": "Branco",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 20
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-BR-GG",
+                "size": "GG",
+                "color": "Branco",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 10
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-AC-PP",
+                "size": "PP",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 12
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-AC-P",
+                "size": "P",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 24
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-AC-M",
+                "size": "M",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 30
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-AC-G",
+                "size": "G",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 18
+            },
+            {
+                "sku": "RIA-BLU-CAM-01-AC-GG",
+                "size": "GG",
+                "color": "Azul Claro",
+                "price": 89.9,
+                "originalPrice": 99.9,
+                "stock": 8
+            }
+        ],
+        "colorImages": {
+            "Branco": "https://picsum.photos/seed/camisa-riachuelo-fem-branco/400/500",
+            "Azul Claro": "https://picsum.photos/seed/camisa-riachuelo-fem-azul-claro/400/500"
+        }
+    },
+    {
+        "slug": "blusa-manga-longa-riachuelo-fem",
+        "name": "Blusa Manga Longa Feminina Riachuelo",
+        "brand": "Riachuelo",
+        "subcategory": "blusas",
+        "gender": "feminino",
+        "description": "Blusa de manga longa com gola V e tecido fluido. Toque suave e caimento perfeito para looks vers�teis.",
+        "images": [
+            "https://picsum.photos/seed/blusa-manga-longa-riachuelo-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4.1,
+        "reviews": 48,
+        "discountPercentage": 0,
+        "colors": [
+            "Marsala",
+            "Verde Musgo"
+        ],
+        "details": {
+            "material": "Viscose",
+            "care": "Lavar a seco ou �gua fria"
+        },
+        "variants": [
+            {
+                "sku": "RIA-BLU-MAN-01-MA-PP",
+                "size": "PP",
+                "color": "Marsala",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 10
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-MA-P",
+                "size": "P",
+                "color": "Marsala",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-MA-M",
+                "size": "M",
+                "color": "Marsala",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 28
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-MA-G",
+                "size": "G",
+                "color": "Marsala",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 16
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-MA-GG",
+                "size": "GG",
+                "color": "Marsala",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 7
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-VM-PP",
+                "size": "PP",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 9
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-VM-P",
+                "size": "P",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-VM-M",
+                "size": "M",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 25
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-VM-G",
+                "size": "G",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 14
+            },
+            {
+                "sku": "RIA-BLU-MAN-01-VM-GG",
+                "size": "GG",
+                "color": "Verde Musgo",
+                "price": 119.9,
+                "originalPrice": null,
+                "stock": 5
+            }
+        ],
+        "colorImages": {
+            "Marsala": "https://picsum.photos/seed/blusa-manga-longa-riachuelo-fem-marsala/400/500",
+            "Verde Musgo": "https://picsum.photos/seed/blusa-manga-longa-riachuelo-fem-verde-musgo/400/500"
+        }
+    },
+    {
+        "slug": "colar-vivara-fem",
+        "name": "Colar Feminino Vivara",
+        "brand": "Vivara",
+        "subcategory": "acessorios",
+        "gender": "feminino",
+        "description": "Colar delicado com pingente em metal banhado a ouro e acabamento refinado. Pe�a vers�til para uso di�rio.",
+        "images": [
+            "https://picsum.photos/seed/colar-vivara-fem/400/500"
+        ],
+        "featured": true,
+        "rating": 4.8,
+        "reviews": 82,
+        "discountPercentage": 0,
+        "colors": [
+            "Ouro",
+            "Prata",
+            "Rose"
+        ],
+        "details": {
+            "material": "Metal banhado a ouro 18k",
+            "care": "Evitar contato com perfume e produtos qu�micos"
+        },
+        "variants": [
+            {
+                "sku": "VIV-ACE-COL-01-OU-UN",
+                "size": "�nico",
+                "color": "Ouro",
+                "price": 199.9,
+                "originalPrice": null,
+                "stock": 25
+            },
+            {
+                "sku": "VIV-ACE-COL-01-PR-UN",
+                "size": "�nico",
+                "color": "Prata",
+                "price": 199.9,
+                "originalPrice": null,
+                "stock": 22
+            },
+            {
+                "sku": "VIV-ACE-COL-01-RO-UN",
+                "size": "�nico",
+                "color": "Rose",
+                "price": 199.9,
+                "originalPrice": null,
+                "stock": 18
+            }
+        ],
+        "colorImages": {
+            "Ouro": "https://picsum.photos/seed/colar-vivara-fem-ouro/400/500",
+            "Prata": "https://picsum.photos/seed/colar-vivara-fem-prata/400/500",
+            "Rose": "https://picsum.photos/seed/colar-vivara-fem-rose/400/500"
+        }
+    },
+    {
+        "slug": "brincos-vivara-fem",
+        "name": "Brincos Vivara",
+        "brand": "Vivara",
+        "subcategory": "acessorios",
+        "gender": "feminino",
+        "description": "Brincos de argola com design contempor�neo e fecho seguro. Eleg�ncia discreta para todas as ocasi�es.",
+        "images": [
+            "https://picsum.photos/seed/brincos-vivara-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4.5,
+        "reviews": 57,
+        "discountPercentage": 15,
+        "colors": [
+            "Ouro",
+            "Prata",
+            "Rose"
+        ],
+        "details": {
+            "material": "A�o inoxid�vel banhado a ouro",
+            "care": "Limpar com flanela macia"
+        },
+        "variants": [
+            {
+                "sku": "VIV-ACE-BRI-01-OU-UN",
+                "size": "�nico",
+                "color": "Ouro",
+                "price": 84.9,
+                "originalPrice": 99.9,
+                "stock": 30
+            },
+            {
+                "sku": "VIV-ACE-BRI-01-PR-UN",
+                "size": "�nico",
+                "color": "Prata",
+                "price": 84.9,
+                "originalPrice": 99.9,
+                "stock": 28
+            },
+            {
+                "sku": "VIV-ACE-BRI-01-RO-UN",
+                "size": "�nico",
+                "color": "Rose",
+                "price": 84.9,
+                "originalPrice": 99.9,
+                "stock": 20
+            }
+        ],
+        "colorImages": {
+            "Ouro": "https://picsum.photos/seed/brincos-vivara-fem-ouro/400/500",
+            "Prata": "https://picsum.photos/seed/brincos-vivara-fem-prata/400/500",
+            "Rose": "https://picsum.photos/seed/brincos-vivara-fem-rose/400/500"
+        }
+    },
+    {
+        "slug": "pulseira-vivara-fem",
+        "name": "Pulseira Vivara",
+        "brand": "Vivara",
+        "subcategory": "acessorios",
+        "gender": "feminino",
+        "description": "Pulseira fina com feixe de correntes e fecho ajust�vel. Toque de sofistica��o para o pulso.",
+        "images": [
+            "https://picsum.photos/seed/pulseira-vivara-fem/400/500"
+        ],
+        "featured": false,
+        "rating": 4.6,
+        "reviews": 41,
+        "discountPercentage": 0,
+        "colors": [
+            "Ouro",
+            "Prata",
+            "Rose"
+        ],
+        "details": {
+            "material": "Metal banhado a ouro 18k",
+            "care": "Guardar em estojo separado para evitar arranh�es"
+        },
+        "variants": [
+            {
+                "sku": "VIV-ACE-PUL-01-OU-UN",
+                "size": "�nico",
+                "color": "Ouro",
+                "price": 149.9,
+                "originalPrice": null,
+                "stock": 20
+            },
+            {
+                "sku": "VIV-ACE-PUL-01-PR-UN",
+                "size": "�nico",
+                "color": "Prata",
+                "price": 149.9,
+                "originalPrice": null,
+                "stock": 17
+            },
+            {
+                "sku": "VIV-ACE-PUL-01-RO-UN",
+                "size": "�nico",
+                "color": "Rose",
+                "price": 149.9,
+                "originalPrice": null,
+                "stock": 14
+            }
+        ],
+        "colorImages": {
+            "Ouro": "https://picsum.photos/seed/pulseira-vivara-fem-ouro/400/500",
+            "Prata": "https://picsum.photos/seed/pulseira-vivara-fem-prata/400/500",
+            "Rose": "https://picsum.photos/seed/pulseira-vivara-fem-rose/400/500"
+        }
+    }
+]

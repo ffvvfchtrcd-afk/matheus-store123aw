@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "masculino",
+    "label": "Masculino",
+    "description": "Moda masculina com estilo e conforto",
+    "subcategories": [
+      { "slug": "camisetas", "label": "Camisetas / Blusas" },
+      { "slug": "calcas", "label": "Calças" },
+      { "slug": "tenis", "label": "Tênis" },
+      { "slug": "cuecas", "label": "Cuecas" },
+      { "slug": "relogios", "label": "Relógios" }
+    ]
+  },
+  {
+    "slug": "feminino",
+    "label": "Feminino",
+    "description": "Moda feminina elegante e atual",
+    "subcategories": [
+      { "slug": "calcas-shorts", "label": "Calças / Shorts" },
+      { "slug": "vestidos", "label": "Vestidos" },
+      { "slug": "sapatos", "label": "Sapatos" },
+      { "slug": "saltos", "label": "Saltos" },
+      { "slug": "blusas", "label": "Blusas" },
+      { "slug": "acessorios", "label": "Acessórios / Relógios" }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  { "name": "Nike", "slug": "nike", "gender": "masculino", "subcategory": "camisetas" },
+  { "name": "Adidas", "slug": "adidas", "gender": "masculino", "subcategory": "camisetas" },
+  { "name": "Hering", "slug": "hering", "gender": "masculino", "subcategory": "camisetas" },
+  { "name": "Puma", "slug": "puma", "gender": "masculino", "subcategory": "camisetas" },
+  { "name": "Levi's", "slug": "levis", "gender": "masculino", "subcategory": "calcas" },
+  { "name": "Tommy Hilfiger", "slug": "tommy-hilfiger", "gender": "masculino", "subcategory": "calcas" },
+  { "name": "Calvin Klein", "slug": "calvin-klein", "gender": "masculino", "subcategory": "cuecas" },
+  { "name": "Casio", "slug": "casio", "gender": "masculino", "subcategory": "relogios" },
+  { "name": "Farm", "slug": "farm", "gender": "feminino", "subcategory": "vestidos" },
+  { "name": "Zara", "slug": "zara", "gender": "feminino", "subcategory": "vestidos" },
+  { "name": "Animale", "slug": "animale", "gender": "feminino", "subcategory": "vestidos" },
+  { "name": "H&M", "slug": "hm", "gender": "feminino", "subcategory": "calcas-shorts" },
+  { "name": "Renner", "slug": "renner", "gender": "feminino", "subcategory": "sapatos" },
+  { "name": "Arezzo", "slug": "arezzo", "gender": "feminino", "subcategory": "saltos" },
+  { "name": "Schutz", "slug": "schutz", "gender": "feminino", "subcategory": "saltos" },
+  { "name": "Vivara", "slug": "vivara", "gender": "feminino", "subcategory": "acessorios" },
+  { "name": "Riachuelo", "slug": "riachuelo", "gender": "feminino", "subcategory": "blusas" }
+]
