@@ -49,7 +49,7 @@ export default function CartPage() {
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 space-y-4">
-          <div className="bg-surface-secondary border border-border rounded-xl divide-y divide-border">
+          <div className="bg-surface-secondary border border-accent/30 rounded-xl divide-y divide-border shadow-[0_0_10px_rgba(232,184,74,0.08)]">
             {state.items.map((item) => (
               <CartItem key={item.variantId} item={item} />
             ))}
@@ -65,15 +65,15 @@ export default function CartPage() {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mt-6">
-            <div className="flex items-center gap-2.5 text-xs text-text-muted p-3 rounded-lg bg-surface-secondary border border-border">
+            <div className="flex items-center gap-2.5 text-xs text-text-muted p-3 rounded-lg bg-surface-secondary border border-accent/25">
               <ShieldIcon className="w-4 h-4 text-green-500 flex-shrink-0" />
               <span>Compra segura com certificado SSL</span>
             </div>
-            <div className="flex items-center gap-2.5 text-xs text-text-muted p-3 rounded-lg bg-surface-secondary border border-border">
+            <div className="flex items-center gap-2.5 text-xs text-text-muted p-3 rounded-lg bg-surface-secondary border border-accent/25">
               <TruckIcon className="w-4 h-4 text-accent/70 flex-shrink-0" />
               <span>Frete grátis acima de R$ 199</span>
             </div>
-            <div className="flex items-center gap-2.5 text-xs text-text-muted p-3 rounded-lg bg-surface-secondary border border-border">
+            <div className="flex items-center gap-2.5 text-xs text-text-muted p-3 rounded-lg bg-surface-secondary border border-accent/25">
               <CreditCardIcon className="w-4 h-4 text-accent/70 flex-shrink-0" />
               <span>Parcele em até 12x sem juros</span>
             </div>

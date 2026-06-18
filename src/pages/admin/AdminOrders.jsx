@@ -142,7 +142,7 @@ export default function AdminOrders() {
       {filtered.length === 0 ? (
         <p className="text-sm text-text-muted">Nenhum pedido encontrado.</p>
       ) : (
-        <div className="bg-surface-secondary border border-border rounded-xl overflow-hidden">
+        <div className="bg-surface-secondary border border-accent/30 rounded-xl overflow-hidden shadow-[0_0_10px_rgba(232,184,74,0.08)]">
           <table className="w-full text-sm">
             <thead>
               <tr className="border-b border-border text-text-muted text-xs uppercase tracking-wider">

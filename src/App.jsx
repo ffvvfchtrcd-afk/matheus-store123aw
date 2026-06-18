@@ -89,7 +89,7 @@ function App() {
                         <Route path="produtos" element={<AdminModels />} />
                         <Route path="newsletter" element={<AdminNewsletter />} />
                         <Route path="tickets" element={<AdminTickets />} />
-                      <Route path="categorias" element={<AdminCategories />} />
+                        <Route path="categorias" element={<AdminCategories />} />
                       </Route>
                       <Route path="*" element={<NotFound />} />
                     </Routes>

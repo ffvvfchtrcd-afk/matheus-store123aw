@@ -118,7 +118,7 @@ export default function ProductDetail() {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 animate-fade-in">
         <div className="space-y-4">
-          <div className="aspect-[4/5] w-full rounded-2xl overflow-hidden bg-surface-secondary">
+          <div className="aspect-[4/5] w-full rounded-2xl overflow-hidden bg-surface-secondary border-2 border-accent/30 shadow-[0_0_20px_rgba(232,184,74,0.1)]">
             <ImageZoom
               src={mainImg}
               alt={model.name}
@@ -154,7 +154,7 @@ export default function ProductDetail() {
                 {[1, 2, 3, 4, 5].map((star) => (
                   <StarIcon
                     key={star}
-                    className={`w-4 h-4 ${star <= Math.round(model.rating || 4.5) ? 'text-yellow-500' : 'text-text-muted opacity-30'}`}
+                    className={`w-4 h-4 ${star <= Math.round(model.rating || 4.5) ? 'text-accent' : 'text-text-muted opacity-30'}`}
                   />
                 ))}
                 <span className="text-sm text-text-secondary ml-1">{model.rating || 4.5}</span>
@@ -183,7 +183,7 @@ export default function ProductDetail() {
             )}
           </div>
 
-          <div className="bg-surface-secondary rounded-xl p-5 border border-border">
+          <div className="bg-surface-secondary rounded-xl p-5 border border-accent/35 shadow-[0_0_15px_rgba(232,184,74,0.12)]">
             <p className="text-sm text-text-secondary leading-relaxed">{model.description}</p>
           </div>
 
@@ -197,10 +197,10 @@ export default function ProductDetail() {
                 <button
                   key={color}
                   onClick={() => { setSelectedColor(color); setImgError(false) }}
-                  className={`px-4 py-2 text-sm rounded-lg border transition-all duration-150 ${
+                  className={`px-4 py-2 text-sm rounded-lg border-2 transition-all duration-150 ${
                       currentColor === color
-                        ? 'bg-accent text-black border-accent shadow-md'
-                        : 'border-border text-text-secondary hover:border-text-muted hover:text-text-primary'
+                        ? 'bg-accent text-black border-accent shadow-[0_0_12px_rgba(232,184,74,0.35)]'
+                        : 'border-accent/25 text-text-secondary hover:border-accent/60 hover:text-text-primary hover:shadow-[0_0_8px_rgba(232,184,74,0.15)]'
                     }`}
                   >
                     {color}
@@ -229,10 +229,10 @@ export default function ProductDetail() {
                     key={size}
                     onClick={() => setSelectedSize(size)}
                     disabled={!variants.some((v) => v.size === size && v.stock > 0)}
-                    className={`px-4 py-2 text-sm rounded-lg border transition-all duration-150 ${
+                    className={`px-4 py-2 text-sm rounded-lg border-2 transition-all duration-150 ${
                       currentSize === size
-                        ? 'bg-accent text-black border-accent shadow-md'
-                        : 'border-border text-text-secondary hover:border-text-muted hover:text-text-primary disabled:opacity-30 disabled:cursor-not-allowed'
+                        ? 'bg-accent text-black border-accent shadow-[0_0_12px_rgba(232,184,74,0.35)]'
+                        : 'border-accent/25 text-text-secondary hover:border-accent/60 hover:text-text-primary disabled:opacity-30 disabled:cursor-not-allowed hover:shadow-[0_0_8px_rgba(232,184,74,0.15)]'
                     }`}
                   >
                     {size}
@@ -262,14 +262,14 @@ export default function ProductDetail() {
           </Button>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            <div className="flex items-center gap-3 text-sm text-text-muted p-4 rounded-xl bg-surface-secondary border border-border">
+            <div className="flex items-center gap-3 text-sm text-text-muted p-4 rounded-xl bg-surface-secondary border border-accent/30 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
               <TruckIcon className="w-5 h-5 flex-shrink-0 text-green-500" />
               <div>
                 <p className="font-medium text-text-primary">Frete Grátis</p>
                 <p className="text-xs">Acima de R$ 199,00</p>
               </div>
             </div>
-            <div className="flex items-center gap-3 text-sm text-text-muted p-4 rounded-xl bg-surface-secondary border border-border">
+            <div className="flex items-center gap-3 text-sm text-text-muted p-4 rounded-xl bg-surface-secondary border border-accent/30 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
               <ReturnIcon className="w-5 h-5 flex-shrink-0 text-accent/70" />
               <div>
                 <p className="font-medium text-text-primary">Devolução Grátis</p>

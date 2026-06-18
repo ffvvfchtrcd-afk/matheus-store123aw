@@ -24,7 +24,7 @@ export function ModelCard({ model }) {
   return (
     <>
       <Link to={`/produto/${model.slug}`} className="group block">
-        <div className="relative overflow-hidden rounded-xl bg-neutral-800 aspect-[3/4]">
+        <div className="relative overflow-hidden rounded-xl bg-surface-secondary border border-accent/30 group-hover:border-accent/70 shadow-[0_0_10px_rgba(232,184,74,0.08)] group-hover:shadow-[0_0_25px_rgba(232,184,74,0.3)] transition-all duration-300 aspect-[3/4]">
           <img
             src={imgSrc}
             alt={model.name}
@@ -50,27 +50,27 @@ export function ModelCard({ model }) {
           </div>
         </div>
         <div className="mt-2 px-1">
-          <p className="text-xs text-neutral-400 uppercase tracking-wider">{model.brand}</p>
-          <h3 className="text-sm font-medium text-white truncate">{model.name}</h3>
+          <p className="text-xs text-text-muted uppercase tracking-wider">{model.brand}</p>
+          <h3 className="text-sm font-medium text-text-primary truncate">{model.name}</h3>
           <div className="flex items-center gap-2 mt-1">
             {hasDiscount ? (
               <>
-                <span className="text-sm font-bold text-white">
+                <span className="text-sm font-bold text-green-400">
                   {lowestPrice.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
                 </span>
-                <span className="text-xs text-neutral-500 line-through">
+                <span className="text-xs text-text-muted line-through">
                   {highestOriginal.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
                 </span>
               </>
             ) : (
-              <span className="text-sm font-bold text-white">
+              <span className="text-sm font-bold text-green-400">
                 {lowestPrice.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
               </span>
             )}
           </div>
           <div className="flex items-center gap-1 mt-1">
-            <StarIcon className="w-3 h-3 text-yellow-400" />
-            <span className="text-xs text-neutral-400">{model.rating || 4.5}</span>
+            <StarIcon className="w-3 h-3 text-accent" />
+            <span className="text-xs text-text-muted">{model.rating || 4.5}</span>
           </div>
         </div>
       </Link>

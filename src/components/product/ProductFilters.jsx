@@ -107,8 +107,8 @@ export function ProductFilters({
             <span className="text-xs text-text-muted">Cor:</span>
             <button
               onClick={() => onColorChange('')}
-              className={`px-2.5 py-1.5 text-xs rounded-lg border transition-colors ${
-                !selectedColor ? 'bg-accent text-black border-accent' : 'border-border text-text-secondary hover:border-text-muted'
+              className={`px-2.5 py-1.5 text-xs rounded-lg border-2 transition-all ${
+                !selectedColor ? 'bg-accent text-black border-accent shadow-[0_0_8px_rgba(232,184,74,0.3)]' : 'border-accent/25 text-text-secondary hover:border-accent/50'
               }`}
             >
               Todas
@@ -117,8 +117,8 @@ export function ProductFilters({
               <button
                 key={color}
                 onClick={() => onColorChange(selectedColor === color ? '' : color)}
-                className={`px-2.5 py-1.5 text-xs rounded-lg border transition-colors ${
-                  selectedColor === color ? 'bg-accent text-black border-accent' : 'border-border text-text-secondary hover:border-text-muted'
+                className={`px-2.5 py-1.5 text-xs rounded-lg border-2 transition-all ${
+                  selectedColor === color ? 'bg-accent text-black border-accent shadow-[0_0_8px_rgba(232,184,74,0.3)]' : 'border-accent/25 text-text-secondary hover:border-accent/50'
                 }`}
               >
                 {color}
@@ -132,8 +132,8 @@ export function ProductFilters({
             <span className="text-xs text-text-muted">Tam.:</span>
             <button
               onClick={() => onSizeChange('')}
-              className={`px-2.5 py-1.5 text-xs rounded-lg border transition-colors ${
-                !selectedSize ? 'bg-accent text-black border-accent' : 'border-border text-text-secondary hover:border-text-muted'
+              className={`px-2.5 py-1.5 text-xs rounded-lg border-2 transition-all ${
+                !selectedSize ? 'bg-accent text-black border-accent shadow-[0_0_8px_rgba(232,184,74,0.3)]' : 'border-accent/25 text-text-secondary hover:border-accent/50'
               }`}
             >
               Todos
@@ -142,8 +142,8 @@ export function ProductFilters({
               <button
                 key={size}
                 onClick={() => onSizeChange(selectedSize === size ? '' : size)}
-                className={`px-2.5 py-1.5 text-xs rounded-lg border transition-colors ${
-                  selectedSize === size ? 'bg-accent text-black border-accent' : 'border-border text-text-secondary hover:border-text-muted'
+                className={`px-2.5 py-1.5 text-xs rounded-lg border-2 transition-all ${
+                  selectedSize === size ? 'bg-accent text-black border-accent shadow-[0_0_8px_rgba(232,184,74,0.3)]' : 'border-accent/25 text-text-secondary hover:border-accent/50'
                 }`}
               >
                 {size}

@@ -2,10 +2,10 @@ import { cloneElement, isValidElement } from 'react'
 import { cn } from '../../utils/cn'
 
 const variants = {
-  primary: 'bg-accent text-black hover:bg-accent-hover',
-  secondary: 'border border-border text-text-primary hover:bg-surface-tertiary',
-  ghost: 'text-text-secondary hover:text-text-primary hover:bg-surface-tertiary',
-  danger: 'bg-red-600 text-white hover:bg-red-700',
+  primary: 'bg-accent text-black hover:bg-accent-hover shadow-[0_0_12px_rgba(232,184,74,0.3)] hover:shadow-[0_0_20px_rgba(232,184,74,0.45)] border border-accent/40',
+  secondary: 'border-2 border-accent/40 text-text-primary hover:bg-accent/10 hover:border-accent/70 hover:shadow-[0_0_15px_rgba(232,184,74,0.2)]',
+  ghost: 'text-text-secondary hover:text-text-primary hover:bg-surface-tertiary hover:border hover:border-accent/20',
+  danger: 'bg-red-600 text-white hover:bg-red-700 border border-red-500/40',
 }
 
 const sizes = {

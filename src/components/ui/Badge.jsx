@@ -5,7 +5,7 @@ export function Badge({ count, dot, className }) {
   return (
     <span
       className={cn(
-        'absolute -top-1.5 -right-1.5 inline-flex items-center justify-center rounded-full bg-red-500 text-white text-[10px] font-bold min-w-[18px] h-[18px] px-1',
+        'absolute -top-1.5 -right-1.5 inline-flex items-center justify-center rounded-full bg-accent text-black text-[10px] font-bold min-w-[18px] h-[18px] px-1',
         dot && 'min-w-[8px] h-[8px] p-0',
         className
       )}

@@ -15,7 +15,7 @@ export function CartSummary({ totalPrice, shipping, total, subtotal }) {
   }
 
   return (
-    <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-5 sticky top-24">
+    <div className="bg-surface-secondary border-2 border-accent/30 rounded-xl p-6 space-y-5 sticky top-24 shadow-[0_0_15px_rgba(232,184,74,0.1)]">
       <h3 className="text-lg font-semibold text-text-primary">Resumo do Pedido</h3>
 
       <div className="space-y-3 text-sm">

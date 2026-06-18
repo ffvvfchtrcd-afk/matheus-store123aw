@@ -1,9 +1,8 @@
-import { useState, useEffect, useContext } from 'react'
+import { useState, useEffect, useContext, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import { Container } from '../components/ui/Container'
 import { Button } from '../components/ui/Button'
-import { ArrowRightIcon, LogoSVG } from '../components/ui/Icons'
-import { HeroIllustration } from '../components/ui/Illustrations'
+import { ArrowRightIcon } from '../components/ui/Icons'
 import { CategoryCard } from '../components/category/CategoryCard'
 import { ModelCard } from '../components/product/ModelCard'
 import { ProductGridSkeleton } from '../components/ui/Skeleton'
@@ -19,21 +18,60 @@ import brandsData from '../data/brands.json'
 
 function BrandCarousel() {
   const [hoveredIdx, setHoveredIdx] = useState(null)
+  const scrollRef = useRef(null)
+  const [isDragging, setIsDragging] = useState(false)
+  const [startX, setStartX] = useState(0)
+  const [scrollLeft, setScrollLeft] = useState(0)
+  const didDrag = useRef(false)
+
   const brands = brandsData || []
   if (brands.length === 0) return null
+
+  const handleMouseDown = (e) => {
+    setIsDragging(true)
+    didDrag.current = false
+    setStartX(e.pageX - scrollRef.current.offsetLeft)
+    setScrollLeft(scrollRef.current.scrollLeft)
+  }
+  const handleMouseMove = (e) => {
+    if (!isDragging) return
+    e.preventDefault()
+    const x = e.pageX - scrollRef.current.offsetLeft
+    const diff = Math.abs(x - startX)
+    if (diff > 5) didDrag.current = true
+    scrollRef.current.scrollLeft = scrollLeft - (x - startX) * 1.5
+  }
+  const handleMouseUp = () => setIsDragging(false)
+
+  const handleClick = (e) => {
+    if (didDrag.current) {
+      e.preventDefault()
+      e.stopPropagation()
+    }
+  }
+
   return (
     <Container className="pb-10">
       <h2 className="text-2xl font-bold text-text-primary mb-6">Marcas</h2>
-      <div className="flex gap-4 overflow-x-auto pb-2 scrollbar-none">
+      <div
+        ref={scrollRef}
+        className="flex gap-4 overflow-x-auto pb-2 scrollbar-none select-none cursor-grab active:cursor-grabbing"
+        onMouseDown={handleMouseDown}
+        onMouseMove={handleMouseMove}
+        onMouseUp={handleMouseUp}
+        onMouseLeave={handleMouseUp}
+      >
         {brands.map((brand, i) => (
           <Link
             key={brand.name || i}
             to={`/${brand.gender || 'masculino'}/${brand.subcategory || 'camisetas'}/${(brand.name || '').toLowerCase().replace(/[^a-z0-9]/g, '-')}`}
-            className={`flex-shrink-0 px-6 py-3 rounded-xl border transition-all duration-200 ${
-              hoveredIdx === i ? 'border-accent bg-accent/5 scale-105' : 'border-border bg-surface-secondary hover:border-text-muted'
+            className={`flex-shrink-0 px-6 py-3 rounded-xl border-2 transition-all duration-200 ${
+              hoveredIdx === i ? 'border-accent bg-accent/15 scale-105 shadow-[0_0_20px_rgba(232,184,74,0.3)]' : 'border-accent/25 bg-surface-secondary hover:border-accent/50 hover:shadow-[0_0_12px_rgba(232,184,74,0.15)]'
             }`}
             onMouseEnter={() => setHoveredIdx(i)}
             onMouseLeave={() => setHoveredIdx(null)}
+            onClick={handleClick}
+            draggable={false}
           >
             <span className="text-sm font-medium text-text-primary whitespace-nowrap">{brand.name}</span>
           </Link>
@@ -47,20 +85,20 @@ function PromoBanners() {
   return (
     <Container className="pb-10">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <Link to="/ofertas" className="relative group overflow-hidden rounded-2xl h-48 bg-gradient-to-br from-red-900/40 to-surface-secondary border border-border">
+        <Link to="/ofertas" className="relative group overflow-hidden rounded-2xl h-48 bg-gradient-to-br from-accent/10 to-surface-secondary border-2 border-accent/40 hover:border-accent/80 shadow-[0_0_12px_rgba(232,184,74,0.1)] hover:shadow-[0_0_30px_rgba(232,184,74,0.3)] transition-all duration-300">
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
           <div className="relative z-10 p-8 flex flex-col justify-end h-full">
-            <p className="text-xs text-red-400 font-semibold uppercase tracking-wider">Promoção</p>
-            <h3 className="text-2xl font-bold text-white mt-1">Até 50% OFF</h3>
-            <p className="text-sm text-neutral-300 mt-1">Aproveite as ofertas da semana</p>
+            <p className="text-xs text-accent font-semibold uppercase tracking-wider">Promoção</p>
+            <h3 className="text-2xl font-bold text-text-primary mt-1">Até 50% OFF</h3>
+            <p className="text-sm text-text-secondary mt-1">Aproveite as ofertas da semana</p>
           </div>
         </Link>
-        <Link to="/masculino/camisetas" className="relative group overflow-hidden rounded-2xl h-48 bg-gradient-to-br from-blue-900/40 to-surface-secondary border border-border">
+        <Link to="/masculino/camisetas" className="relative group overflow-hidden rounded-2xl h-48 bg-gradient-to-br from-accent/5 to-surface-secondary border-2 border-accent/30 hover:border-accent/70 shadow-[0_0_10px_rgba(232,184,74,0.08)] hover:shadow-[0_0_25px_rgba(232,184,74,0.25)] transition-all duration-300">
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
           <div className="relative z-10 p-8 flex flex-col justify-end h-full">
-            <p className="text-xs text-blue-400 font-semibold uppercase tracking-wider">Coleção</p>
-            <h3 className="text-2xl font-bold text-white mt-1">Camisetas</h3>
-            <p className="text-sm text-neutral-300 mt-1">Conforto e estilo para o dia a dia</p>
+            <p className="text-xs text-accent font-semibold uppercase tracking-wider">Coleção</p>
+            <h3 className="text-2xl font-bold text-text-primary mt-1">Camisetas</h3>
+            <p className="text-sm text-text-secondary mt-1">Conforto e estilo para o dia a dia</p>
           </div>
         </Link>
       </div>
@@ -132,71 +170,7 @@ export default function Home() {
   }
 
   return (
-    <div>
-      <section className="relative min-h-[85vh] flex items-center overflow-hidden">
-        <img
-          src={getHeroImage()}
-          alt=""
-          className="absolute inset-0 w-full h-full object-cover"
-          aria-hidden="true"
-        />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/60 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-t from-surface via-transparent to-transparent" />
-
-        <Container className="relative z-10 py-20">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div className="max-w-xl animate-fade-in">
-              <div className="flex items-center gap-2 mb-6">
-                <LogoSVG className="w-10 h-10" />
-                <span className="text-sm font-medium text-neutral-400 tracking-widest uppercase">Nova Coleção 2025</span>
-              </div>
-              <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-[1.1] tracking-tight">
-                Estilo que<br />
-                <span className="text-neutral-300">define quem</span><br />
-                você é
-              </h1>
-              <p className="mt-6 text-lg text-neutral-400 leading-relaxed max-w-md">
-                Moda masculina e feminina com curadoria especial. Qualidade, conforto e as tendências que você procura em um só lugar.
-              </p>
-              <div className="mt-10 flex flex-wrap gap-4">
-                <Button variant="primary" size="lg" asChild>
-                  <Link to="/masculino">Coleção Masculina</Link>
-                </Button>
-                <Button variant="secondary" size="lg" asChild>
-                  <Link to="/feminino">Coleção Feminina</Link>
-                </Button>
-              </div>
-              <div className="mt-10">
-                <Button variant="ghost" size="sm" asChild>
-                  <Link to="/ofertas" className="text-red-400 hover:text-red-300">
-                    Ver Ofertas →
-                  </Link>
-                </Button>
-              </div>
-              <div className="mt-6 flex items-center gap-8 text-sm text-neutral-500">
-                <span className="flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-green-500" />
-                  Frete Grátis
-                </span>
-                <span className="flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-accent/50" />
-                  Devolução 30 dias
-                </span>
-                <span className="flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-accent/50" />
-                  Pagamento Seguro
-                </span>
-              </div>
-            </div>
-
-            <div className="hidden lg:block">
-              <HeroIllustration className="w-full h-auto opacity-80" />
-            </div>
-          </div>
-        </Container>
-      </section>
-
-      <PromoBanners />
+    <div className="pt-10">
       <BrandCarousel />
 
       <Container className="pb-10">
@@ -243,7 +217,7 @@ export default function Home() {
         {featuredLoading ? (
           <ProductGridSkeleton count={4} />
         ) : featured.length === 0 ? (
-          <div className="text-center py-12 bg-surface-secondary border border-border rounded-xl">
+          <div className="text-center py-12 bg-surface-secondary border border-accent/15 rounded-xl">
             <p className="text-text-muted">Nenhum produto em destaque no momento.</p>
           </div>
         ) : (
@@ -256,7 +230,7 @@ export default function Home() {
       </Container>
 
       <Container className="pb-20">
-        <div className="relative bg-surface-secondary border border-border rounded-3xl p-8 sm:p-14 text-center overflow-hidden animate-fade-in">
+        <div className="relative bg-surface-secondary border-2 border-accent/35 rounded-3xl p-8 sm:p-14 text-center overflow-hidden animate-fade-in shadow-[0_0_35px_rgba(232,184,74,0.15)]">
           <div className="absolute top-0 right-0 w-64 h-64 bg-accent/5 rounded-full -translate-y-1/2 translate-x-1/2" />
           <div className="absolute bottom-0 left-0 w-48 h-48 bg-accent/3 rounded-full translate-y-1/2 -translate-x-1/2" />
           <div className="relative z-10">

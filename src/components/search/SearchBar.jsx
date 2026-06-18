@@ -66,7 +66,7 @@ export function SearchBar({ onNavigate }) {
             onFocus={() => setFocused(true)}
             onBlur={() => setTimeout(() => setFocused(false), 200)}
             placeholder="Buscar produtos..."
-            className="w-full pl-9 pr-3 py-2 bg-surface-tertiary border border-border rounded-lg text-sm text-text-primary placeholder-text-muted focus:outline-none focus:border-text-muted transition-colors"
+            className="w-full pl-9 pr-3 py-2 bg-surface-tertiary border border-accent/30 rounded-lg text-sm text-text-primary placeholder-text-muted focus:outline-none focus:border-accent focus:shadow-[0_0_12px_rgba(232,184,74,0.25)] transition-all"
           />
         </div>
         <button
@@ -79,7 +79,7 @@ export function SearchBar({ onNavigate }) {
       </form>
 
       {focused && debouncedQuery.trim().length >= 2 && (
-        <div className="absolute top-full left-0 right-0 mt-2 bg-surface-secondary border border-border rounded-xl shadow-lg overflow-hidden z-50">
+        <div className="absolute top-full left-0 right-0 mt-2 bg-surface-secondary border border-accent/30 rounded-xl shadow-lg shadow-accent/10 overflow-hidden z-50">
           {loading ? (
             <div className="p-4 text-sm text-text-muted text-center">Buscando...</div>
           ) : suggestions.length === 0 ? (

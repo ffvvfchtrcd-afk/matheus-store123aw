@@ -5,7 +5,7 @@ import categories from '../../data/categories.json'
 
 export function Footer() {
   return (
-    <footer className="bg-surface border-t border-border mt-20">
+    <footer className="bg-surface border-t border-accent/35 shadow-[0_-2px_15px_rgba(232,184,74,0.1)] mt-20">
       <Container className="py-12">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
@@ -16,7 +16,7 @@ export function Footer() {
               Moda masculina e feminina com estilo, conforto e qualidade. Sua loja de confiança desde 2025.
             </p>
             <div className="mt-4 flex gap-3">
-              <Link to="/ofertas" className="text-sm font-medium text-red-400 hover:text-red-300 transition-colors">
+              <Link to="/ofertas" className="text-sm font-medium text-accent hover:text-accent-hover transition-colors">
                 Ofertas
               </Link>
               <Link to="/favoritos" className="text-sm font-medium text-text-secondary hover:text-text-primary transition-colors">
@@ -54,10 +54,10 @@ export function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-text-muted">
-            &copy; {new Date().getFullYear()} LOJAVault. Todos os direitos reservados.
+            &copy; {new Date().getFullYear()} Loja JM. Todos os direitos reservados.
           </p>
           <div className="flex items-center gap-6">
-            <Link to="/ofertas" className="text-xs text-text-muted hover:text-red-400 transition-colors">Ofertas</Link>
+            <Link to="/ofertas" className="text-xs text-text-muted hover:text-accent transition-colors">Ofertas</Link>
             <Link to="/fale-conosco" className="text-xs text-text-muted hover:text-text-primary transition-colors">Fale Conosco</Link>
             <span className="text-xs text-text-muted">Feito com dedicação</span>
           </div>

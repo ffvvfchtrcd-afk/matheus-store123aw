@@ -148,10 +148,7 @@ export const Logotype = ({ className = 'w-32' }) => (
     <path d="M8 20V10l6-3 6 3v10l-6 3-6-3z" className="fill-surface" />
     <path d="M10 11l4-2 4 2v8l-4 2-4-2V11z" className="fill-accent" opacity="0.2" />
     <text x="36" y="20" fontFamily="Inter, sans-serif" fontWeight="800" fontSize="16" letterSpacing="-0.5" className="fill-text-primary">
-      LOJA
-    </text>
-    <text x="76" y="20" fontFamily="Inter, sans-serif" fontWeight="300" fontSize="16" letterSpacing="-0.5" className="fill-text-secondary">
-      Vault
+      Loja JM
     </text>
     <circle cx="128" cy="18" r="1.5" className="fill-accent" opacity="0.4" />
   </svg>

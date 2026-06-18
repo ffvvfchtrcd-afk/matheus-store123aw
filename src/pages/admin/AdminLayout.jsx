@@ -48,7 +48,7 @@ export function AdminLayout() {
 
   return (
     <div className="min-h-screen bg-surface flex">
-      <aside className="w-56 bg-surface-secondary border-r border-border flex flex-col flex-shrink-0">
+      <aside className="w-56 bg-surface-secondary border-r border-accent/25 shadow-[2px_0_15px_rgba(232,184,74,0.08)] flex flex-col flex-shrink-0">
         <div className="p-4 border-b border-border">
           <Link to="/admin" className="inline-block">
             <Logotype className="h-5" />

@@ -44,7 +44,7 @@ export function MobileMenu({ open, onClose }) {
             </div>
           )}
 
-          <Link to="/ofertas" className="flex items-center gap-3 px-3 py-3 text-sm font-medium text-red-400 hover:bg-surface-tertiary rounded-lg transition-colors">
+          <Link to="/ofertas" className="flex items-center gap-3 px-3 py-3 text-sm font-medium text-accent hover:bg-accent/10 rounded-lg transition-colors">
             <span className="text-lg">🏷️</span>
             Ofertas
           </Link>

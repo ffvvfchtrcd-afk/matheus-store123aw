@@ -19,23 +19,23 @@ const BRAND_LOGOS = {
 }
 
 const BRAND_COLORS = {
-  'Nike': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Adidas': { bg: '#1a1a2e', fg: '#ffffff' },
-  "Levi's": { bg: '#1a1a2e', fg: '#ffffff' },
-  'Tommy Hilfiger': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Calvin Klein': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Puma': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Hering': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Casio': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Farm': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Zara': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Animale': { bg: '#1a1a2e', fg: '#ffffff' },
-  'H&M': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Renner': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Arezzo': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Schutz': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Riachuelo': { bg: '#1a1a2e', fg: '#ffffff' },
-  'Vivara': { bg: '#1a1a2e', fg: '#ffffff' },
+  'Nike': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Adidas': { bg: '#0f1f38', fg: '#c89b3c' },
+  "Levi's": { bg: '#0f1f38', fg: '#c89b3c' },
+  'Tommy Hilfiger': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Calvin Klein': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Puma': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Hering': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Casio': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Farm': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Zara': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Animale': { bg: '#0f1f38', fg: '#c89b3c' },
+  'H&M': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Renner': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Arezzo': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Schutz': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Riachuelo': { bg: '#0f1f38', fg: '#c89b3c' },
+  'Vivara': { bg: '#0f1f38', fg: '#c89b3c' },
 }
 
 function svgToDataUri(svg) {
@@ -53,7 +53,7 @@ function svgToDataUri(svg) {
 }
 
 export function getBrandImage(brand) {
-  const colors = BRAND_COLORS[brand] || { bg: '#1a1a2e', fg: '#ffffff' }
+  const colors = BRAND_COLORS[brand] || { bg: '#0f1f38', fg: '#c89b3c' }
   const logoPath = BRAND_LOGOS[brand] || 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z'
   return svgToDataUri(`<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
     <rect width="200" height="200" fill="${colors.bg}" rx="20"/>
@@ -65,8 +65,8 @@ export function getBrandImage(brand) {
 }
 
 export function getSubcategoryImage(slug, gender) {
-  const bg = gender === 'masculino' ? '#1a1a2e' : '#2e1a2e'
-  const fg = '#f5f5f5'
+  const bg = gender === 'masculino' ? '#0f1f38' : '#1a2d4a'
+  const fg = '#c89b3c'
   const labels = {
     'calcas': 'Calças',
     'camisetas': 'Camisetas',
@@ -105,8 +105,8 @@ const COLORS = {
 
 function productSvg(name, bgColor, textColor) {
   const label = name.length > 18 ? name.substring(0, 16) + '…' : name
-  const bg = bgColor || '#262626'
-  const fg = textColor || '#a3a3a3'
+  const bg = bgColor || '#0f1f38'
+  const fg = textColor || '#8899aa'
   return svgToDataUri(`<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
     <rect width="400" height="500" fill="${bg}"/>
     <rect x="80" y="100" width="240" height="240" rx="16" fill="${fg}" opacity="0.08"/>
@@ -121,8 +121,8 @@ function productSvg(name, bgColor, textColor) {
 }
 
 function categorySvg(label) {
-  const bg = '#1a1a1a'
-  const fg = '#f5f5f5'
+  const bg = '#0a1628'
+  const fg = '#c89b3c'
   const icon = label === 'Masculino'
     ? `<circle cx="200" cy="200" r="60" fill="${fg}" opacity="0.08"/>
        <circle cx="200" cy="200" r="35" fill="${fg}" opacity="0.12"/>
@@ -142,10 +142,10 @@ function categorySvg(label) {
 }
 
 function heroSvg() {
-  const bg = '#171717'
-  const fg = '#f5f5f5'
+  const bg = '#0a1628'
+  const fg = '#c89b3c'
   return svgToDataUri(`<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="600" viewBox="0 0 1440 600">
-    <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#262626"/><stop offset="100%" stop-color="#171717"/></linearGradient></defs>
+    <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0f1f38"/><stop offset="100%" stop-color="#0a1628"/></linearGradient></defs>
     <rect width="1440" height="600" fill="url(#g)"/>
     <circle cx="200" cy="150" r="80" fill="${fg}" opacity="0.03"/>
     <circle cx="400" cy="100" r="120" fill="${fg}" opacity="0.02"/>
@@ -158,8 +158,8 @@ function heroSvg() {
 
 export function getProductImage(product) {
   const color = product.colors?.[0]
-  const bgColor = COLORS[color] || '#262626'
-  const textColor = bgColor === '#f5f5f5' ? '#171717' : '#f5f5f5'
+  const bgColor = COLORS[color] || '#0f1f38'
+  const textColor = bgColor === '#f5f5f5' ? '#0a1628' : '#c89b3c'
   return productSvg(product.name, bgColor, textColor)
 }
 
@@ -173,8 +173,8 @@ export function getHeroImage() {
 }
 
 export function generateProductPlaceholder(name, colorName) {
-  const bgColor = COLORS[colorName] || '#262626'
-  const textColor = bgColor === '#f5f5f5' ? '#171717' : '#f5f5f5'
+  const bgColor = COLORS[colorName] || '#0f1f38'
+  const textColor = bgColor === '#f5f5f5' ? '#0a1628' : '#c89b3c'
   return productSvg(name, bgColor, textColor)
 }
 

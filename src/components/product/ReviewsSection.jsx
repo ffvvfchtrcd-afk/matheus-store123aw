@@ -53,7 +53,7 @@ function ReviewForm({ modelSlug, onSubmitted }) {
             aria-label={`${star} estrela${star > 1 ? 's' : ''}`}
           >
             {star <= (hoverRating || rating) ? (
-              <StarIcon className="w-5 h-5 text-yellow-500" />
+              <StarIcon className="w-5 h-5 text-accent" />
             ) : (
               <StarEmptyIcon className="w-5 h-5 text-text-muted" />
             )}
@@ -108,7 +108,7 @@ export function ReviewsSection({ modelSlug, rating, reviewCount }) {
           <div>
             <div className="flex items-center gap-0.5">
               {[1, 2, 3, 4, 5].map((s) => (
-                <StarIcon key={s} className={`w-4 h-4 ${s <= Math.round(Number(avgRating)) ? 'text-yellow-500' : 'text-text-muted opacity-30'}`} />
+                <StarIcon key={s} className={`w-4 h-4 ${s <= Math.round(Number(avgRating)) ? 'text-accent' : 'text-text-muted opacity-30'}`} />
               ))}
             </div>
             <span className="text-xs text-text-muted">{reviews.length} {reviews.length === 1 ? 'avaliacão' : 'avaliações'}</span>
@@ -130,7 +130,7 @@ export function ReviewsSection({ modelSlug, rating, reviewCount }) {
               </div>
               <div className="flex items-center gap-0.5 mb-2">
                 {[1, 2, 3, 4, 5].map((s) => (
-                  <StarIcon key={s} className={`w-3.5 h-3.5 ${s <= review.rating ? 'text-yellow-500' : 'text-text-muted opacity-30'}`} />
+                  <StarIcon key={s} className={`w-3.5 h-3.5 ${s <= review.rating ? 'text-accent' : 'text-text-muted opacity-30'}`} />
                 ))}
               </div>
               {review.comment && <p className="text-sm text-text-secondary">{review.comment}</p>}

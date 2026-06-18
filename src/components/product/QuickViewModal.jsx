@@ -66,7 +66,7 @@ export function QuickViewModal({ slug, onClose }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4" role="dialog" aria-modal="true" aria-label="Visualização rápida">
       <div className="fixed inset-0 bg-black/70 backdrop-blur-sm" onClick={onClose} />
-      <div className="relative bg-surface-secondary border border-border rounded-2xl w-full max-w-2xl max-h-[90vh] overflow-y-auto animate-scale-in shadow-2xl">
+      <div className="relative bg-surface-secondary border-2 border-accent/40 rounded-2xl w-full max-w-2xl max-h-[90vh] overflow-y-auto animate-scale-in shadow-[0_0_30px_rgba(232,184,74,0.2)]">
         <button onClick={onClose} className="absolute top-4 right-4 z-10 p-2 bg-surface/80 rounded-full text-text-secondary hover:text-text-primary transition-colors" aria-label="Fechar">
           <CloseIcon className="w-5 h-5" />
         </button>
@@ -100,7 +100,7 @@ export function QuickViewModal({ slug, onClose }) {
                 <h2 className="text-xl font-bold text-text-primary">{model.name}</h2>
                 <div className="flex items-center gap-1 mt-1">
                   {[1, 2, 3, 4, 5].map((s) => (
-                    <StarIcon key={s} className={`w-3.5 h-3.5 ${s <= Math.round(model.rating || 4.5) ? 'text-yellow-500' : 'text-text-muted opacity-30'}`} />
+                    <StarIcon key={s} className={`w-3.5 h-3.5 ${s <= Math.round(model.rating || 4.5) ? 'text-accent' : 'text-text-muted opacity-30'}`} />
                   ))}
                   <span className="text-xs text-text-secondary ml-1">{model.rating || 4.5}</span>
                 </div>
@@ -125,8 +125,8 @@ export function QuickViewModal({ slug, onClose }) {
                   <div className="flex flex-wrap gap-1.5">
                     {[...new Set((model.variants || []).map((v) => v.color))].map((color) => (
                       <button key={color} onClick={() => setSelectedColor(color)}
-                        className={`px-3 py-1 text-xs rounded-lg border transition-all ${
-                          selectedColor === color ? 'bg-accent text-black border-accent' : 'border-border text-text-secondary hover:border-text-muted'
+                        className={`px-3 py-1 text-xs rounded-lg border-2 transition-all ${
+                          selectedColor === color ? 'bg-accent text-black border-accent shadow-[0_0_8px_rgba(232,184,74,0.3)]' : 'border-accent/25 text-text-secondary hover:border-accent/50'
                         }`}>
                         {color}
                       </button>
@@ -142,8 +142,8 @@ export function QuickViewModal({ slug, onClose }) {
                     {[...new Set((model.variants || []).map((v) => v.size))].map((size) => (
                       <button key={size} onClick={() => setSelectedSize(size)}
                         disabled={!(model.variants || []).some((v) => v.size === size && v.stock > 0)}
-                        className={`px-3 py-1 text-xs rounded-lg border transition-all ${
-                          selectedSize === size ? 'bg-accent text-black border-accent' : 'border-border text-text-secondary hover:border-text-muted disabled:opacity-30 disabled:cursor-not-allowed'
+                        className={`px-3 py-1 text-xs rounded-lg border-2 transition-all ${
+                          selectedSize === size ? 'bg-accent text-black border-accent shadow-[0_0_8px_rgba(232,184,74,0.3)]' : 'border-accent/25 text-text-secondary hover:border-accent/50 disabled:opacity-30 disabled:cursor-not-allowed'
                         }`}>
                         {size}
                       </button>

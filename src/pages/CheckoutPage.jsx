@@ -205,13 +205,13 @@ export default function CheckoutPage() {
             return (
               <div key={s.key} className="flex items-center">
                 <div className={`flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium transition-all ${
-                  isActive ? 'bg-accent text-black' : isDone ? 'text-green-500' : 'text-text-muted'
+                  isActive ? 'bg-accent text-black shadow-[0_0_15px_rgba(232,184,74,0.3)]' : isDone ? 'text-accent' : 'text-text-muted'
                 }`}>
                   <Icon className={`w-4 h-4 ${isActive ? 'text-black' : ''}`} />
                   <span className="hidden sm:inline">{s.label}</span>
                 </div>
                 {i < STEPS.length - 1 && (
-                  <div className={`w-8 h-0.5 mx-1 ${i < step ? 'bg-green-500' : 'bg-border'}`} />
+                  <div className={`w-8 h-0.5 mx-1 ${i < step ? 'bg-accent' : 'bg-border'}`} />
                 )}
               </div>
             )
@@ -221,7 +221,7 @@ export default function CheckoutPage() {
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
           <div className="lg:col-span-3 space-y-6">
             {step === 0 && (
-              <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-4">
+              <div className="bg-surface-secondary border border-accent/30 rounded-xl p-6 space-y-4 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
                 <h2 className="text-lg font-semibold text-text-primary flex items-center gap-2">
                   <MapPinIcon className="w-5 h-5 text-accent/70" />
                   Endereço de Entrega
@@ -306,7 +306,7 @@ export default function CheckoutPage() {
             )}
 
             {step === 1 && (
-              <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-4">
+              <div className="bg-surface-secondary border border-accent/30 rounded-xl p-6 space-y-4 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
                 <h2 className="text-lg font-semibold text-text-primary flex items-center gap-2">
                   <TruckIcon className="w-5 h-5 text-accent/70" />
                   Método de Entrega
@@ -355,7 +355,7 @@ export default function CheckoutPage() {
 
             {step === 2 && (
               <div className="space-y-4">
-                <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-4">
+                <div className="bg-surface-secondary border border-accent/30 rounded-xl p-6 space-y-4 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
                   <h2 className="text-lg font-semibold text-text-primary flex items-center gap-2">
                     <CreditCardIcon className="w-5 h-5 text-accent/70" />
                     Forma de Pagamento
@@ -382,7 +382,7 @@ export default function CheckoutPage() {
                   </div>
                 </div>
 
-                <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-4">
+                <div className="bg-surface-secondary border border-accent/30 rounded-xl p-6 space-y-4 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
                   <h3 className="text-sm font-semibold text-text-primary">CPF do Comprador</h3>
                   <input
                     value={cpf}
@@ -393,7 +393,7 @@ export default function CheckoutPage() {
                 </div>
 
                 {paymentMethod === 'credit' && (
-                  <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-4">
+                  <div className="bg-surface-secondary border border-accent/30 rounded-xl p-6 space-y-4 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
                     <h3 className="text-sm font-semibold text-text-primary">Dados do Cartão</h3>
                     <div className="space-y-3">
                       <div>
@@ -458,27 +458,27 @@ export default function CheckoutPage() {
 
             {step === 3 && (
               <div className="space-y-4">
-                <div className="bg-surface-secondary border border-border rounded-xl p-6 space-y-4">
+                <div className="bg-surface-secondary border border-accent/30 rounded-xl p-6 space-y-4 shadow-[0_0_10px_rgba(232,184,74,0.08)]">
                   <h2 className="text-lg font-semibold text-text-primary flex items-center gap-2">
                     <PackageIcon className="w-5 h-5 text-accent/70" />
                     Revisão do Pedido
                   </h2>
 
                   <div className="space-y-3">
-                    <div className="border border-border rounded-lg p-4">
+                    <div className="border border-accent/25 rounded-lg p-4">
                       <h4 className="text-xs font-medium text-text-muted uppercase tracking-wider mb-2">Endereço de Entrega</h4>
                       <p className="text-sm text-text-primary">{address.logradouro}, {address.numero}{address.complemento ? ` - ${address.complemento}` : ''}</p>
                       <p className="text-sm text-text-secondary">{address.bairro} - {address.cidade}/{address.estado}</p>
                       <p className="text-sm text-text-secondary">CEP: {address.cep}</p>
                     </div>
 
-                    <div className="border border-border rounded-lg p-4">
+                    <div className="border border-accent/25 rounded-lg p-4">
                       <h4 className="text-xs font-medium text-text-muted uppercase tracking-wider mb-2">Frete</h4>
                       <p className="text-sm text-text-primary">{shippingMethod?.label || 'Frete Grátis'} — {formatCurrency(shipping)}</p>
                       <p className="text-xs text-text-muted">{shippingMethod?.days || '3-7 dias úteis'}</p>
                     </div>
 
-                    <div className="border border-border rounded-lg p-4">
+                    <div className="border border-accent/25 rounded-lg p-4">
                       <h4 className="text-xs font-medium text-text-muted uppercase tracking-wider mb-2">Pagamento</h4>
                       <p className="text-sm text-text-primary">
                         {paymentMethod === 'credit' ? `Cartão de Crédito - Final ${cardInfo.number.slice(-4)}` :

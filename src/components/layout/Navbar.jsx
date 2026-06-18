@@ -19,7 +19,7 @@ export function Navbar() {
 
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 z-50 bg-surface/80 backdrop-blur-md border-b border-border">
+      <header className="fixed top-0 left-0 right-0 z-50 bg-surface/80 backdrop-blur-md border-b border-accent/35 shadow-[0_2px_20px_rgba(232,184,74,0.15)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <Link to="/" className="flex items-center gap-2">
@@ -31,7 +31,7 @@ export function Navbar() {
             </div>
 
             <nav className="hidden md:flex items-center gap-8">
-              <Link to="/ofertas" className={`text-sm font-medium transition-colors duration-150 ${location.pathname === '/ofertas' ? 'text-red-400' : 'text-text-secondary hover:text-text-primary'}`}>
+              <Link to="/ofertas" className={`text-sm font-medium transition-colors duration-150 ${location.pathname === '/ofertas' ? 'text-accent' : 'text-text-secondary hover:text-text-primary'}`}>
                 Ofertas
               </Link>
               {categories.map((cat) => (

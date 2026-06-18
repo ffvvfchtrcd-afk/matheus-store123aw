@@ -47,17 +47,17 @@ export function ProductCard({ product, variant = 'default' }) {
       to={`/produto/${product.slug}`}
       className="group block animate-fade-in"
     >
-      <div className="relative overflow-hidden rounded-xl bg-surface-secondary">
+      <div className="relative overflow-hidden rounded-xl bg-surface-secondary border border-accent/30 group-hover:border-accent/70 shadow-[0_0_10px_rgba(232,184,74,0.08)] group-hover:shadow-[0_0_25px_rgba(232,184,74,0.3)] transition-all duration-300">
         <ProductImage
           src={getProductImage(product)}
           alt={product.name}
-          className="aspect-[4/5]"
+          className="aspect-[4/5] rounded-lg"
           priority={product.featured}
         />
 
         {!product.inStock && (
-          <div className="absolute inset-0 bg-black/60 flex items-center justify-center">
-            <span className="text-white text-sm font-medium px-3 py-1 bg-surface/80 rounded-lg">Indisponível</span>
+          <div className="absolute inset-0 bg-black/60 flex items-center justify-center rounded-xl">
+            <span className="text-text-primary text-sm font-medium px-3 py-1 bg-surface/80 rounded-lg">Indisponível</span>
           </div>
         )}
 
@@ -67,7 +67,7 @@ export function ProductCard({ product, variant = 'default' }) {
           </span>
         )}
 
-        <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl" />
 
         <div className="absolute bottom-0 left-0 right-0 p-3 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
           <Button
@@ -93,7 +93,7 @@ export function ProductCard({ product, variant = 'default' }) {
           )}
         </div>
         <div className="flex items-center gap-1 text-text-muted">
-          <StarIcon className="w-3.5 h-3.5 text-yellow-500" />
+          <StarIcon className="w-3.5 h-3.5 text-accent" />
           <span className="text-xs">{product.rating}</span>
         </div>
       </div>

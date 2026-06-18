@@ -28,7 +28,7 @@ export function WishlistButton({ modelSlug, className = '', variant = 'icon' }) 
       <button
         onClick={handleClick}
         className={`p-2 rounded-full transition-all duration-200 hover:scale-110 ${className} ${
-          isFavorited ? 'text-red-500 bg-red-500/10' : 'text-text-muted hover:text-red-400 bg-surface/60'
+          isFavorited ? 'text-red-500 bg-red-500/15 border border-red-500/30' : 'text-text-muted hover:text-red-400 bg-surface/60 border border-accent/25 hover:border-accent/50'
         }`}
         aria-label={isFavorited ? 'Remover dos favoritos' : 'Adicionar aos favoritos'}
       >
@@ -42,8 +42,8 @@ export function WishlistButton({ modelSlug, className = '', variant = 'icon' }) 
       onClick={handleClick}
       className={`flex items-center gap-2 px-4 py-2 rounded-lg border text-sm font-medium transition-all ${
         isFavorited
-          ? 'border-red-500/30 text-red-400 bg-red-500/5 hover:bg-red-500/10'
-          : 'border-border text-text-secondary hover:text-red-400 hover:border-red-500/30'
+          ? 'border-red-500/40 text-red-400 bg-red-500/10 hover:bg-red-500/15'
+          : 'border-accent/30 text-text-secondary hover:text-accent hover:border-accent/60 hover:shadow-[0_0_12px_rgba(232,184,74,0.2)]'
       } ${className}`}
     >
       <HeartIcon className={`w-4 h-4 ${isFavorited ? 'fill-current text-red-500' : ''}`} />
