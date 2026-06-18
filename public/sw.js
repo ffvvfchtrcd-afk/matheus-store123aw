@@ -1,38 +1,44 @@
-const CACHE_NAME = 'lojavault-v1'
-const urlsToCache = [
-  '/',
-  '/index.html',
-]
+const CACHE_NAME = 'lojavault-v2'
 
 self.addEventListener('install', (event) => {
+  self.skipWaiting()
+})
+
+self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(urlsToCache)
-    })
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.filter((name) => name !== CACHE_NAME).map((name) => caches.delete(name))
+      )
+    }).then(() => self.clients.claim())
   )
 })
 
 self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request).catch(() => {
-        return caches.match('/index.html')
-      })
-    })
-  )
-})
+  const { request } = event
+  const url = new URL(request.url)
 
-self.addEventListener('activate', (event) => {
-  const cacheWhitelist = [CACHE_NAME]
-  event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames.map((cacheName) => {
-          if (cacheWhitelist.indexOf(cacheName) === -1) {
-            return caches.delete(cacheName)
-          }
+  if (url.pathname.startsWith('/assets/')) {
+    event.respondWith(
+      caches.open(CACHE_NAME).then((cache) =>
+        cache.match(request).then((cached) => {
+          if (cached) return cached
+          return fetch(request).then((response) => {
+            if (response.ok) {
+              cache.put(request, response.clone())
+            }
+            return response
+          })
         })
       )
-    })
-  )
+    )
+    return
+  }
+
+  if (request.mode === 'navigate') {
+    event.respondWith(
+      fetch(request).catch(() => caches.match('/index.html'))
+    )
+    return
+  }
 })

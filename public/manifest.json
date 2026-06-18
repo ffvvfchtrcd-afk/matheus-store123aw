@@ -4,8 +4,8 @@
   "description": "Moda masculina e feminina com curadoria especial",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#171717",
-  "theme_color": "#171717",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
   "icons": [
     {
       "src": "/favicon.svg",

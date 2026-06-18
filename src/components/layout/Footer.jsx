@@ -5,7 +5,7 @@ import categories from '../../data/categories.json'
 
 export function Footer() {
   return (
-    <footer className="bg-surface border-t border-accent/35 shadow-[0_-2px_15px_rgba(232,184,74,0.1)] mt-20">
+    <footer className="bg-surface border-t border-accent/35 shadow-[0_-2px_15px_rgba(232,184,74,0.1)] mt-20 pb-20 md:pb-0">
       <Container className="py-12">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>

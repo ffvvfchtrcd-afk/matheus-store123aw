@@ -109,12 +109,12 @@ export function Navbar() {
                 </Link>
               )}
 
-              <Link to="/favoritos" className="relative p-2 text-text-secondary hover:text-text-primary transition-colors">
+              <Link to="/favoritos" className="hidden md:block relative p-2 text-text-secondary hover:text-text-primary transition-colors">
                 <HeartIcon className="w-5 h-5" />
                 {wishlistSlugs.length > 0 && <Badge count={wishlistSlugs.length} />}
               </Link>
 
-              <Link to="/carrinho" className="relative p-2 text-text-secondary hover:text-text-primary transition-colors">
+              <Link to="/carrinho" className="hidden md:block relative p-2 text-text-secondary hover:text-text-primary transition-colors">
                 <CartIcon className="w-6 h-6" />
                 {totalItems > 0 && <Badge count={totalItems} />}
               </Link>
